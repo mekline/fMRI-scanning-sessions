@@ -1,12 +1,64 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf210
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;\red34\green139\blue34;\red160\green32\blue240;}
+{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c13333\c54510\c13333;\csgenericrgb\c62745\c12549\c94118;}
 \margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 
 \f0\fs24 \cf0 Useful commands\
 \
 \
 fb_sad3\
 dyLoc_20090405\
-bioloc2}
+bioloc2\
+\
+\
+\pard\pardeftab720\partightenfactor0
+
+\f1\fs20 \cf0                 \cf2 %Prepare the SOUND - NEUTRAL VOICEOVER
+\fs24 \cf0 \
+
+\fs20                 [y, freq, nbits] = wavread(char(neutral_set(j)));
+\fs24 \
+
+\fs20                 wavedata = y';
+\fs24 \
+
+\fs20                 nrchannels = size(wavedata,1); \cf2 % Number of rows == number of channels.
+\fs24 \cf0 \
+\pard\pardeftab720\partightenfactor0
+
+\fs20 \cf2  
+\fs24 \cf0 \
+\pard\pardeftab720\partightenfactor0
+
+\fs20 \cf0                 \cf2 % Perform basic initialization of the sound driver:
+\fs24 \cf0 \
+
+\fs20                 InitializePsychSound;
+\fs24 \
+
+\fs20  
+\fs24 \
+
+\fs20                 \cf2 % Open the default audio device
+\fs24 \cf0 \
+
+\fs20                 pahandle = PsychPortAudio(\cf3 'Open'\cf0 , [], [], 0, freq, nrchannels);
+\fs24 \
+
+\fs20                 \cf2 % Fill the audio playback buffer with the audio data 'wavedata':
+\fs24 \cf0 \
+
+\fs20                 PsychPortAudio(\cf3 'FillBuffer'\cf0 , pahandle, wavedata);
+\fs24 \
+
+\fs20                 
+\fs24 \
+
+\fs20                 \cf2 %Start the SOUND
+\fs24 \cf0 \
+
+\fs20                 t1 = PsychPortAudio(\cf3 'Start'\cf0 , pahandle, 1, 0, 1);
+\fs24 \
+}
