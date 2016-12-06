@@ -1,0 +1,15 @@
+trial	concept	onset time
+1	FIX	0.00
+2	Sweater	10.00
+3	Igloo	46.00
+4	Refrigerator	82.00
+5	Mouth	118.00
+6	Train_station	154.00
+7	Lentil	190.00
+8	Window	226.00
+9	Foot	262.00
+10	Hammer	298.00
+11	House	334.00
+12	Ship	370.00
+13	Orange_juice	406.00
+14	FIX	442.00

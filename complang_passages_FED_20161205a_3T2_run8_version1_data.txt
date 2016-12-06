@@ -1,0 +1,15 @@
+trial	concept	onset time
+1	FIX	0.00
+2	Spear	10.00
+3	Woman	46.00
+4	Eye	82.00
+5	Vulture	118.00
+6	Tomato	154.00
+7	Parrot	190.00
+8	Mountain	226.00
+9	Desk	262.00
+10	Carpenter	298.00
+11	Screwdriver	334.00
+12	Chair	370.00
+13	Cod	406.00
+14	FIX	442.00

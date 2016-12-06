@@ -1,0 +1,15 @@
+trial	concept	onset time
+1	FIX	0.00
+2	Bicycle	10.00
+3	Blacksmith	46.00
+4	Apple	82.00
+5	Axe	118.00
+6	Blender	154.00
+7	Clarinet	190.00
+8	Arson	226.00
+9	Mug	262.00
+10	Bee	298.00
+11	Banana	334.00
+12	Forest	370.00
+13	Piano	406.00
+14	FIX	442.00

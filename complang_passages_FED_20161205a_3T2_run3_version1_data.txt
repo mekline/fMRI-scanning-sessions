@@ -1,0 +1,15 @@
+trial	concept	onset time
+1	FIX	0.00
+2	Milk	10.00
+3	Glove	46.00
+4	Library	82.00
+5	Desert	118.00
+6	Television	154.00
+7	Drought	190.00
+8	Eagle	226.00
+9	Lettuce	262.00
+10	Swamp	298.00
+11	Mosquito	334.00
+12	Earthquake	370.00
+13	Man	406.00
+14	FIX	442.00

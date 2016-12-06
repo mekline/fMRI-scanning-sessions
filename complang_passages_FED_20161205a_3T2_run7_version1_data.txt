@@ -1,0 +1,15 @@
+trial	concept	onset time
+1	FIX	0.00
+2	Finger	10.00
+3	Water	46.00
+4	Fork	82.00
+5	Whale	118.00
+6	Horse	154.00
+7	Knife	190.00
+8	Girl	226.00
+9	Shark	262.00
+10	Boy	298.00
+11	Wall	334.00
+12	Elephant	370.00
+13	Frying_pan	406.00
+14	FIX	442.00

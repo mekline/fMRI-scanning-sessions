@@ -1,0 +1,15 @@
+trial	concept	onset time
+1	FIX	0.00
+2	Soldier	10.00
+3	Cat	46.00
+4	Flood	82.00
+5	Train	118.00
+6	Accordion	154.00
+7	Butterfly	190.00
+8	Tropical_cyclone	226.00
+9	Shoe	262.00
+10	Floor	298.00
+11	Table_(furniture)	334.00
+12	Driving_under_the_influence	370.00
+13	Apartment	406.00
+14	FIX	442.00

@@ -1,0 +1,15 @@
+trial	concept	onset time
+1	FIX	0.00
+2	Scientist	10.00
+3	Hand_grenade	46.00
+4	Salmon	82.00
+5	Spider	118.00
+6	Scissors	154.00
+7	Raspberry	190.00
+8	Automobile	226.00
+9	Saw	262.00
+10	Toaster	298.00
+11	Rifle	334.00
+12	Broccoli	370.00
+13	Piranha	406.00
+14	FIX	442.00

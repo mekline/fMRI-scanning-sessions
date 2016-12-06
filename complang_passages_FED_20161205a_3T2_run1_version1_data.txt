@@ -1,0 +1,15 @@
+trial	concept	onset time
+1	FIX	0.00
+2	Hospital	10.00
+3	Coffee	46.00
+4	Log_cabin	82.00
+5	Bed	118.00
+6	Theft	154.00
+7	Dress	190.00
+8	Murder	226.00
+9	Peach	262.00
+10	Raven	298.00
+11	Door	334.00
+12	Farm	370.00
+13	Violin	406.00
+14	FIX	442.00

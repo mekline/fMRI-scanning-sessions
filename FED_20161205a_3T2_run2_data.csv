@@ -1,0 +1,135 @@
+subj,run,item,list,category,sentence,joke ending,nonjoke ending,displayed,response,RT,question onset
+0.0000,8.000,2,111,1,joke,"Some husbands are good providers, but only if you count",children,salary,"Some husbands are good providers, but only if you count children.",<VisionEgg.WrappedText.WrappedText object at 0x10a62e780>
+8.0000,8.000,2,144,1,nonjoke,The difference between a dog and fox is about five,beers,degrees,The difference between a dog and fox is about five degrees.,<VisionEgg.WrappedText.WrappedText object at 0x10a62e820>
+16.0000,4.000,fix
+20.0000,8.000,2,53,1,joke,"By the time Mary had her fourteenth child, she'd run out of names to call her ",husband,offspring,"By the time Mary had her fourteenth child, she'd run out of names to call her husband.",<VisionEgg.WrappedText.WrappedText object at 0x10a62e8c0>
+28.0000,4.000,fix
+32.0000,8.000,2,105,1,joke,The book that tells you where you can go on vacation is called a,checkbook,guidebook,The book that tells you where you can go on vacation is called a checkbook.,<VisionEgg.WrappedText.WrappedText object at 0x10a62e910>
+40.0000,8.000,2,140,1,nonjoke,You can keep your kids in hot water with ,dishes,rules,You can keep your kids in hot water with rules.,<VisionEgg.WrappedText.WrappedText object at 0x10a62e9b0>
+48.0000,2.000,fix
+50.0000,8.000,2,127,1,joke,The penalty for dishonesty is the disgrace of dying,rich,unloved,The penalty for dishonesty is the disgrace of dying rich.,<VisionEgg.WrappedText.WrappedText object at 0x10a62eaa0>
+58.0000,4.000,fix
+62.0000,8.000,2,63,1,joke,"It's hard to raise a family nowadays, especially in the ",morning,country,"It's hard to raise a family nowadays, especially in the morning.",<VisionEgg.WrappedText.WrappedText object at 0x10a62eb40>
+70.0000,8.000,2,33,1,joke,Some people think courtship is the first in a series of steps leading to ,divorce,romance,Some people think courtship is the first in a series of steps leading to divorce.,<VisionEgg.WrappedText.WrappedText object at 0x10a62ebe0>
+78.0000,8.000,2,54,1,nonjoke,The tourist bureau told the visitors there was plenty of hunting in this part of the country but very little,finding,sightseeing,The tourist bureau told the visitors there was plenty of hunting in this part of the country but very little sightseeing.,<VisionEgg.WrappedText.WrappedText object at 0x10a62ec30>
+86.0000,2.000,fix
+88.0000,8.000,2,18,1,nonjoke,"When we watch a sexy movie, my wife leans over and breathes on my",glasses,collar,"When we watch a sexy movie, my wife leans over and breathes on my collar.",<VisionEgg.WrappedText.WrappedText object at 0x10a62ee10>
+96.0000,8.000,2,7,1,joke,A replacement player hit a home run with my,girl,ball,A replacement player hit a home run with my girl.,<VisionEgg.WrappedText.WrappedText object at 0x10a62ee60>
+104.0000,2.000,fix
+106.0000,8.000,2,64,1,nonjoke,The best way to stop an elephant from charging is to cut off its,credit,toes,The best way to stop an elephant from charging is to cut off its toes.,<VisionEgg.WrappedText.WrappedText object at 0x10a62ef50>
+114.0000,8.000,2,60,1,nonjoke,Another thing a small boy is constantly outgrowing is his,allowance,underwear,Another thing a small boy is constantly outgrowing is his underwear.,<VisionEgg.WrappedText.WrappedText object at 0x10a652050>
+122.0000,8.000,2,5,1,joke,She read so much about the bad effects of cigarettes she decided to give up the,reading,habit,She read so much about the bad effects of cigarettes she decided to give up the reading.,<VisionEgg.WrappedText.WrappedText object at 0x10a6520f0>
+130.0000,8.000,2,84,1,nonjoke,"The convict told his cellmate how he'd blown all the money he stole on wine, women, and ",lawyers,crack,"The convict told his cellmate how he'd blown all the money he stole on wine, women, and crack.",<VisionEgg.WrappedText.WrappedText object at 0x10a6521e0>
+138.0000,8.000,2,51,1,joke,I went to a place that serves breakfast any time and ordered French toast in the,Renaissance,nighttime,I went to a place that serves breakfast any time and ordered French toast in the Renaissance.,<VisionEgg.WrappedText.WrappedText object at 0x10a6522d0>
+146.0000,2.000,fix
+148.0000,8.000,2,19,1,joke,"I decided to start saving for a rainy day, so I went to a savings and loan and deposited my",umbrella,pay,"I decided to start saving for a rainy day, so I went to a savings and loan and deposited my umbrella.",<VisionEgg.WrappedText.WrappedText object at 0x10a6523c0>
+156.0000,6.000,fix
+162.0000,8.000,2,45,1,joke,"She is so modest, she pulls down the shade to change her", mind,jacket,"She is so modest, she pulls down the shade to change her mind.",<VisionEgg.WrappedText.WrappedText object at 0x10a652460>
+170.0000,8.000,2,3,1,joke,A thoughtful wife has pork chops ready when her husband comes home from,fishing,working,A thoughtful wife has pork chops ready when her husband comes home from fishing.,<VisionEgg.WrappedText.WrappedText object at 0x10a652500>
+178.0000,8.000,2,14,1,nonjoke,He got a medal for bravery on the beach when he rescued a girl from a ,lifeguard,shipwreck,He got a medal for bravery on the beach when he rescued a girl from a shipwreck.,<VisionEgg.WrappedText.WrappedText object at 0x10a6525a0>
+186.0000,8.000,2,154,1,nonjoke,"This new computer works so quickly, it comes complete with",ulcers,games,"This new computer works so quickly, it comes complete with games.",<VisionEgg.WrappedText.WrappedText object at 0x10a6525f0>
+194.0000,8.000,2,107,1,joke,The difference between a good speaker and a bad one is often a nice,nap,diction,The difference between a good speaker and a bad one is often a nice nap.,<VisionEgg.WrappedText.WrappedText object at 0x10a652730>
+202.0000,8.000,fix
+210.0000,8.000,2,38,1,nonjoke,This fall two things are turning yellow: trees and,investors,bushes,This fall two things are turning yellow: trees and bushes.,<VisionEgg.WrappedText.WrappedText object at 0x10a6527d0>
+218.0000,8.000,2,17,1,joke,A committee keeps minutes and takes,hours,votes,A committee keeps minutes and takes hours.,<VisionEgg.WrappedText.WrappedText object at 0x10a652870>
+226.0000,2.000,fix
+228.0000,8.000,2,108,1,nonjoke,Everyone had so much fun diving from the tree into the swimming pool we decided to put in a little,water,platform,Everyone had so much fun diving from the tree into the swimming pool we decided to put in a little platform.,<VisionEgg.WrappedText.WrappedText object at 0x10a652910>
+236.0000,12.000,fix
+248.0000,8.000,2,56,1,nonjoke,"When you own an ice cream business, your favorite flavor is",aspirin,everything,"When you own an ice cream business, your favorite flavor is everything.",<VisionEgg.WrappedText.WrappedText object at 0x10a6529b0>
+256.0000,2.000,fix
+258.0000,8.000,2,155,1,joke,The show had one act that was really offbeat: the,singer,clowns,The show had one act that was really offbeat: the singer.,<VisionEgg.WrappedText.WrappedText object at 0x10a652a00>
+266.0000,8.000,fix
+274.0000,8.000,2,114,1,nonjoke,It's extraordinary what fine poker hand you get when you're playing,bridge,stud,It's extraordinary what fine poker hand you get when you're playing stud.,<VisionEgg.WrappedText.WrappedText object at 0x10a652aa0>
+282.0000,20.000,fix
+302.0000,8.000,2,13,1,joke,A device for finding furniture in the dark is a ,shin,candle,A device for finding furniture in the dark is a shin.,<VisionEgg.WrappedText.WrappedText object at 0x10a652b40>
+310.0000,2.000,fix
+312.0000,8.000,2,65,1,joke,A good way to blow your mind is to smoke ,gunpowder,heroin,A good way to blow your mind is to smoke gunpowder.,<VisionEgg.WrappedText.WrappedText object at 0x10a652b90>
+320.0000,8.000,2,79,1,joke,She puts something behind her ears to attract men; lately she's been using her,ankles,vanilla,She puts something behind her ears to attract men; lately she's been using her ankles.,<VisionEgg.WrappedText.WrappedText object at 0x10a652c30>
+328.0000,4.000,fix
+332.0000,8.000,2,72,1,nonjoke,The first two hundred story building opened in Chicago; it was a ,library,hotel,The first two hundred story building opened in Chicago; it was a hotel.,<VisionEgg.WrappedText.WrappedText object at 0x10a652cd0>
+340.0000,2.000,fix
+342.0000,8.000,2,25,1,joke,The only thing money can't buy is,poverty,generosity,The only thing money can't buy is poverty.,<VisionEgg.WrappedText.WrappedText object at 0x10a652dc0>
+350.0000,8.000,2,16,1,nonjoke,Many a man's idea of a vacation is to rest quietly in the shade of a ,blonde,palm,Many a man's idea of a vacation is to rest quietly in the shade of a palm.,<VisionEgg.WrappedText.WrappedText object at 0x10a652e10>
+358.0000,2.000,fix
+360.0000,8.000,2,125,1,joke,I know one couple who got divorced and had to leave the house to the,attorney,daughter,I know one couple who got divorced and had to leave the house to the attorney.,<VisionEgg.WrappedText.WrappedText object at 0x10a652eb0>
+368.0000,8.000,fix
+376.0000,8.000,2,57,1,joke,"Congress taxes our income, our property, and our",patience,purchases,"Congress taxes our income, our property, and our patience.",<VisionEgg.WrappedText.WrappedText object at 0x112659050>
+384.0000,12.000,fix
+396.0000,8.000,2,50,1,nonjoke,The only time my father ever raised a hand to his children was in ,self- defense,discipline,The only time my father ever raised a hand to his children was in discipline.,<VisionEgg.WrappedText.WrappedText object at 0x1126590f0>
+404.0000,20.000,fix
+424.0000,8.000,2,66,1,nonjoke,One good way to invest in the country is to buy a ,senator,business,One good way to invest in the country is to buy a business.,<VisionEgg.WrappedText.WrappedText object at 0x112659140>
+432.0000,8.000,2,120,1,nonjoke,Two things are essential for success: wealth and,money,fame,Two things are essential for success: wealth and fame.,<VisionEgg.WrappedText.WrappedText object at 0x112659230>
+440.0000,8.000,2,123,1,joke,Too many girls believe that the chief foundation for true love is a large,stone,fortune,Too many girls believe that the chief foundation for true love is a large stone.,<VisionEgg.WrappedText.WrappedText object at 0x1126592d0>
+448.0000,2.000,fix
+450.0000,8.000,2,47,1,joke,"Charged with statutory rape, he told the judge he didn't know she was a ",statue,teenager,"Charged with statutory rape, he told the judge he didn't know she was a statue.",<VisionEgg.WrappedText.WrappedText object at 0x112659370>
+458.0000,4.000,fix
+462.0000,8.000,2,143,1,joke,Most of the people running for office are not politicians; they're,commuters,candidates,Most of the people running for office are not politicians; they're commuters.,<VisionEgg.WrappedText.WrappedText object at 0x1126594b0>
+470.0000,2.000,fix
+472.0000,8.000,2,82,1,nonjoke,"When it comes to keeping warm, nothing beats a thermal",brunette,parka,"When it comes to keeping warm, nothing beats a thermal parka.",<VisionEgg.WrappedText.WrappedText object at 0x112659500>
+480.0000,6.000,fix
+486.0000,8.000,2,70,1,nonjoke,The best gift for the man who has everything is,penicillin,neckties,The best gift for the man who has everything is neckties.,<VisionEgg.WrappedText.WrappedText object at 0x1126595f0>
+494.0000,8.000,2,96,1,nonjoke,"When the kid came into the store and asked for empty boxes, the owner gave him the",register,crate,"When the kid came into the store and asked for empty boxes, the owner gave him the crate.",<VisionEgg.WrappedText.WrappedText object at 0x112659640>
+502.0000,2.000,fix
+504.0000,8.000,2,128,1,nonjoke,"Figures don't lie, except on the",beaches,page,"Figures don't lie, except on the page.",<VisionEgg.WrappedText.WrappedText object at 0x112659730>
+512.0000,8.000,2,118,1,nonjoke,Cocktails lounges are usually half lit to match the,patrons,setting,Cocktails lounges are usually half lit to match the setting.,<VisionEgg.WrappedText.WrappedText object at 0x112659780>
+520.0000,8.000,2,34,1,nonjoke,"He asked if I'd join him in a bowl of soup, but I told him we didn't have enough",room,change,"He asked if I'd join him in a bowl of soup, but I told him we didn't have enough change.",<VisionEgg.WrappedText.WrappedText object at 0x112659870>
+528.0000,2.000,fix
+530.0000,8.000,2,11,1,joke,"He owns stock in a company that pays quarterly dividends, so every three months they send him a",quarter,statement,"He owns stock in a company that pays quarterly dividends, so every three months they send him a quarter.",<VisionEgg.WrappedText.WrappedText object at 0x112659960>
+538.0000,4.000,fix
+542.0000,8.000,2,90,1,nonjoke,A vacation is the shortest distance between two,paychecks,locations,A vacation is the shortest distance between two locations.,<VisionEgg.WrappedText.WrappedText object at 0x112659a00>
+550.0000,8.000,2,40,1,nonjoke,No patient should leave the hospital until he's strong enough to face the,cashier,outside,No patient should leave the hospital until he's strong enough to face the outside.,<VisionEgg.WrappedText.WrappedText object at 0x112659a50>
+558.0000,2.000,fix
+560.0000,8.000,2,73,1,joke,One thing that makes the world go round is,detours,greed,One thing that makes the world go round is detours.,<VisionEgg.WrappedText.WrappedText object at 0x112659b40>
+568.0000,2.000,fix
+FED_20161205a_3T2,2,111,1,joke,"Some husbands are good providers, but only if you count",children,salary,"Some husbands are good providers, but only if you count children.",2,1.088122844696045,6.001373052597046
+FED_20161205a_3T2,2,144,1,nonjoke,The difference between a dog and fox is about five,beers,degrees,The difference between a dog and fox is about five degrees.,2,0.7530767917633057,14.02008605003357
+FED_20161205a_3T2,2,53,1,joke,"By the time Mary had her fourteenth child, she'd run out of names to call her ",husband,offspring,"By the time Mary had her fourteenth child, she'd run out of names to call her husband.",2,0.45188093185424805,26.006377935409546
+FED_20161205a_3T2,2,105,1,joke,The book that tells you where you can go on vacation is called a,checkbook,guidebook,The book that tells you where you can go on vacation is called a checkbook.,3,0.4352748394012451,38.00931906700134
+FED_20161205a_3T2,2,140,1,nonjoke,You can keep your kids in hot water with ,dishes,rules,You can keep your kids in hot water with rules.,1,0.4689640998840332,46.01111888885498
+FED_20161205a_3T2,2,127,1,joke,The penalty for dishonesty is the disgrace of dying,rich,unloved,The penalty for dishonesty is the disgrace of dying rich.,1,0.9709408283233643,56.00542902946472
+FED_20161205a_3T2,2,63,1,joke,"It's hard to raise a family nowadays, especially in the ",morning,country,"It's hard to raise a family nowadays, especially in the morning.",2,0.41855692863464355,68.00840997695923
+FED_20161205a_3T2,2,33,1,joke,Some people think courtship is the first in a series of steps leading to ,divorce,romance,Some people think courtship is the first in a series of steps leading to divorce.,2,0.3517189025878906,76.01027202606201
+FED_20161205a_3T2,2,54,1,nonjoke,The tourist bureau told the visitors there was plenty of hunting in this part of the country but very little,finding,sightseeing,The tourist bureau told the visitors there was plenty of hunting in this part of the country but very little sightseeing.,1,0.636246919631958,84.0123679637909
+FED_20161205a_3T2,2,18,1,nonjoke,"When we watch a sexy movie, my wife leans over and breathes on my",glasses,collar,"When we watch a sexy movie, my wife leans over and breathes on my collar.",1,0.8035280704498291,94.00657296180725
+FED_20161205a_3T2,2,7,1,joke,A replacement player hit a home run with my,girl,ball,A replacement player hit a home run with my girl.,2,0.9206938743591309,102.00854706764221
+FED_20161205a_3T2,2,64,1,nonjoke,The best way to stop an elephant from charging is to cut off its,credit,toes,The best way to stop an elephant from charging is to cut off its toes.,1,0.26790881156921387,112.00265502929688
+FED_20161205a_3T2,2,60,1,nonjoke,Another thing a small boy is constantly outgrowing is his,allowance,underwear,Another thing a small boy is constantly outgrowing is his underwear.,1,1.0039498805999756,120.00516700744629
+FED_20161205a_3T2,2,5,1,joke,She read so much about the bad effects of cigarettes she decided to give up the,reading,habit,She read so much about the bad effects of cigarettes she decided to give up the reading.,2,0.4186408519744873,128.00656700134277
+FED_20161205a_3T2,2,84,1,nonjoke,"The convict told his cellmate how he'd blown all the money he stole on wine, women, and ",lawyers,crack,"The convict told his cellmate how he'd blown all the money he stole on wine, women, and crack.",1,0.4519200325012207,136.00867986679077
+FED_20161205a_3T2,2,51,1,joke,I went to a place that serves breakfast any time and ordered French toast in the,Renaissance,nighttime,I went to a place that serves breakfast any time and ordered French toast in the Renaissance.,2,0.36879491806030273,144.02734303474426
+FED_20161205a_3T2,2,19,1,joke,"I decided to start saving for a rainy day, so I went to a savings and loan and deposited my",umbrella,pay,"I decided to start saving for a rainy day, so I went to a savings and loan and deposited my umbrella.",2,0.7030379772186279,154.00481605529785
+FED_20161205a_3T2,2,45,1,joke,"She is so modest, she pulls down the shade to change her", mind,jacket,"She is so modest, she pulls down the shade to change her mind.",2,0.33472681045532227,168.01657605171204
+FED_20161205a_3T2,2,3,1,joke,A thoughtful wife has pork chops ready when her husband comes home from,fishing,working,A thoughtful wife has pork chops ready when her husband comes home from fishing.,1,0.7197339534759521,176.0018880367279
+FED_20161205a_3T2,2,14,1,nonjoke,He got a medal for bravery on the beach when he rescued a girl from a ,lifeguard,shipwreck,He got a medal for bravery on the beach when he rescued a girl from a shipwreck.,1,0.7868459224700928,184.00380492210388
+FED_20161205a_3T2,2,154,1,nonjoke,"This new computer works so quickly, it comes complete with",ulcers,games,"This new computer works so quickly, it comes complete with games.",1,0.46832704544067383,192.00627183914185
+FED_20161205a_3T2,2,107,1,joke,The difference between a good speaker and a bad one is often a nice,nap,diction,The difference between a good speaker and a bad one is often a nice nap.,1,1.7414960861206055,200.0077998638153
+FED_20161205a_3T2,2,38,1,nonjoke,This fall two things are turning yellow: trees and,investors,bushes,This fall two things are turning yellow: trees and bushes.,,,216.02850985527039
+FED_20161205a_3T2,2,17,1,joke,A committee keeps minutes and takes,hours,votes,A committee keeps minutes and takes hours.,2,0.2845761775970459,224.013769865036
+FED_20161205a_3T2,2,108,1,nonjoke,Everyone had so much fun diving from the tree into the swimming pool we decided to put in a little,water,platform,Everyone had so much fun diving from the tree into the swimming pool we decided to put in a little platform.,1,1.0044159889221191,234.00781202316284
+FED_20161205a_3T2,2,56,1,nonjoke,"When you own an ice cream business, your favorite flavor is",aspirin,everything,"When you own an ice cream business, your favorite flavor is everything.",1,1.1886539459228516,254.012855052948
+FED_20161205a_3T2,2,155,1,joke,The show had one act that was really offbeat: the,singer,clowns,The show had one act that was really offbeat: the singer.,2,1.1719141006469727,264.02368688583374
+FED_20161205a_3T2,2,114,1,nonjoke,It's extraordinary what fine poker hand you get when you're playing,bridge,stud,It's extraordinary what fine poker hand you get when you're playing stud.,,,280.01076102256775
+FED_20161205a_3T2,2,13,1,joke,A device for finding furniture in the dark is a ,shin,candle,A device for finding furniture in the dark is a shin.,2,0.40178680419921875,308.00110507011414
+FED_20161205a_3T2,2,65,1,joke,A good way to blow your mind is to smoke ,gunpowder,heroin,A good way to blow your mind is to smoke gunpowder.,3,0.703045129776001,318.0119619369507
+FED_20161205a_3T2,2,79,1,joke,She puts something behind her ears to attract men; lately she's been using her,ankles,vanilla,She puts something behind her ears to attract men; lately she's been using her ankles.,3,0.3514981269836426,326.0140519142151
+FED_20161205a_3T2,2,72,1,nonjoke,The first two hundred story building opened in Chicago; it was a ,library,hotel,The first two hundred story building opened in Chicago; it was a hotel.,1,0.7867200374603271,338.00034284591675
+FED_20161205a_3T2,2,25,1,joke,The only thing money can't buy is,poverty,generosity,The only thing money can't buy is poverty.,2,0.8539268970489502,348.0109529495239
+FED_20161205a_3T2,2,16,1,nonjoke,Many a man's idea of a vacation is to rest quietly in the shade of a ,blonde,palm,Many a man's idea of a vacation is to rest quietly in the shade of a palm.,1,0.5190951824188232,356.01308584213257
+FED_20161205a_3T2,2,125,1,joke,I know one couple who got divorced and had to leave the house to the,attorney,daughter,I know one couple who got divorced and had to leave the house to the attorney.,2,1.356046199798584,366.0072798728943
+FED_20161205a_3T2,2,57,1,joke,"Congress taxes our income, our property, and our",patience,purchases,"Congress taxes our income, our property, and our patience.",2,0.7702639102935791,382.0110869407654
+FED_20161205a_3T2,2,50,1,nonjoke,The only time my father ever raised a hand to his children was in ,self- defense,discipline,The only time my father ever raised a hand to his children was in discipline.,1,0.620635986328125,402.0162398815155
+FED_20161205a_3T2,2,66,1,nonjoke,One good way to invest in the country is to buy a ,senator,business,One good way to invest in the country is to buy a business.,1,1.2388150691986084,430.00644087791443
+FED_20161205a_3T2,2,120,1,nonjoke,Two things are essential for success: wealth and,money,fame,Two things are essential for success: wealth and fame.,2,0.4018828868865967,438.00833106040955
+FED_20161205a_3T2,2,123,1,joke,Too many girls believe that the chief foundation for true love is a large,stone,fortune,Too many girls believe that the chief foundation for true love is a large stone.,1,0.7364771366119385,446.0272328853607
+FED_20161205a_3T2,2,47,1,joke,"Charged with statutory rape, he told the judge he didn't know she was a ",statue,teenager,"Charged with statutory rape, he told the judge he didn't know she was a statue.",2,0.535534143447876,456.00477290153503
+FED_20161205a_3T2,2,143,1,joke,Most of the people running for office are not politicians; they're,commuters,candidates,Most of the people running for office are not politicians; they're commuters.,3,0.6869328022003174,468.0075640678406
+FED_20161205a_3T2,2,82,1,nonjoke,"When it comes to keeping warm, nothing beats a thermal",brunette,parka,"When it comes to keeping warm, nothing beats a thermal parka.",1,0.45200085639953613,478.0015389919281
+FED_20161205a_3T2,2,70,1,nonjoke,The best gift for the man who has everything is,penicillin,neckties,The best gift for the man who has everything is neckties.,1,0.3851320743560791,492.0134689807892
+FED_20161205a_3T2,2,96,1,nonjoke,"When the kid came into the store and asked for empty boxes, the owner gave him the",register,crate,"When the kid came into the store and asked for empty boxes, the owner gave him the crate.",1,0.41837215423583984,500.0156738758087
+FED_20161205a_3T2,2,128,1,nonjoke,"Figures don't lie, except on the",beaches,page,"Figures don't lie, except on the page.",2,0.35153889656066895,510.0095579624176
+FED_20161205a_3T2,2,118,1,nonjoke,Cocktails lounges are usually half lit to match the,patrons,setting,Cocktails lounges are usually half lit to match the setting.,2,0.4355659484863281,518.028352022171
+FED_20161205a_3T2,2,34,1,nonjoke,"He asked if I'd join him in a bowl of soup, but I told him we didn't have enough",room,change,"He asked if I'd join him in a bowl of soup, but I told him we didn't have enough change.",2,1.3058137893676758,526.0135960578918
+FED_20161205a_3T2,2,11,1,joke,"He owns stock in a company that pays quarterly dividends, so every three months they send him a",quarter,statement,"He owns stock in a company that pays quarterly dividends, so every three months they send him a quarter.",2,0.5357410907745361,536.0076289176941
+FED_20161205a_3T2,2,90,1,nonjoke,A vacation is the shortest distance between two,paychecks,locations,A vacation is the shortest distance between two locations.,2,1.0551469326019287,548.0105240345001
+FED_20161205a_3T2,2,40,1,nonjoke,No patient should leave the hospital until he's strong enough to face the,cashier,outside,No patient should leave the hospital until he's strong enough to face the outside.,1,0.4017970561981201,556.0126860141754
+FED_20161205a_3T2,2,73,1,joke,One thing that makes the world go round is,detours,greed,One thing that makes the world go round is detours.,2,0.3011949062347412,566.0070390701294
