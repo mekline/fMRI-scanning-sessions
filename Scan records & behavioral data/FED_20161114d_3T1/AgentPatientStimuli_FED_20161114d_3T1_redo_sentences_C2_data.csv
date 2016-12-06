@@ -1,0 +1,167 @@
+Trial,SubjID,Run,Order,ItemNumber,IntendedOnset,ActualOnset,IntendedDuration,ActualDuration,Condition,Flip,FlipMeaning,Sentence,AgentName,AgentShape,PatientName,PatientShape,BaseFilename,BlinkFilename
+1,FED_20161114d_3T1_redo,2,C,13,0,0.000990974999695027,2,2.00304525200045,Patient,0,active,Kyle Square is balancing Lily Triangle.,Kyle,Square,Lily,Triangle,Base_active_13.jpg,Patient_active_13.jpg
+2,FED_20161114d_3T1_redo,2,C,44,2,2.00475579100021,2,1.99819951999962,Patient,0,active,Zach Star is balancing Lily Triangle.,Zach,Star,Lily,Triangle,Base_active_44.jpg,Patient_active_44.jpg
+3,FED_20161114d_3T1_redo,2,C,26,4,4.00350513400008,2,1.99961891699968,Agent,1,passive,Zach Star is being shaken by Lily Triangle.,Lily,Triangle,Zach,Star,Base_passive_26.jpg,Agent_passive_26.jpg
+,FED_20161114d_3T1_redo,2,C,NA,6,6.00367589799953,2,1.99889079200057,0,NA,,NA,NA,NA,NA,NA,,
+4,FED_20161114d_3T1_redo,2,C,59,8,8.00318823599991,2,1.99987934000001,Patient,1,passive,Lily Triangle is being balanced by Melissa Oval.,Melissa,Oval,Lily,Triangle,Base_passive_59.jpg,Patient_passive_59.jpg
+5,FED_20161114d_3T1_redo,2,C,36,10,10.0036228649997,2,1.99891668700002,Patient,1,passive,Melissa Oval is being bounced by Zach Star.,Zach,Star,Melissa,Oval,Base_passive_36.jpg,Patient_passive_36.jpg
+,FED_20161114d_3T1_redo,2,C,NA,12,12.0031189800002,4,3.99934426999971,0,NA,,NA,NA,NA,NA,NA,,
+6,FED_20161114d_3T1_redo,2,C,37,16,16.0030176009996,2,2.00045323800077,Agent,0,active,Zach Star is rolling Kyle Square.,Zach,Star,Kyle,Square,Base_active_37.jpg,Agent_active_37.jpg
+7,FED_20161114d_3T1_redo,2,C,32,18,18.0040711199999,2,1.99854570299976,Patient,1,passive,Lily Triangle is being stopped by Zach Star.,Zach,Star,Lily,Triangle,Base_passive_32.jpg,Patient_passive_32.jpg
+,FED_20161114d_3T1_redo,2,C,NA,20,20.0034519709998,2,2.0004779560004,0,NA,,NA,NA,NA,NA,NA,,
+8,FED_20161114d_3T1_redo,2,C,45,22,22.0047535619997,2,1.99833214400041,Patient,1,passive,Melissa Oval is being balanced by Zach Star.,Zach,Star,Melissa,Oval,Base_passive_45.jpg,Patient_passive_45.jpg
+9,FED_20161114d_3T1_redo,2,C,43,24,24.0036465849998,2,1.99876876200051,Patient,0,active,Zach Star is balancing Kyle Square.,Zach,Star,Kyle,Square,Base_active_43.jpg,Patient_active_43.jpg
+10,FED_20161114d_3T1_redo,2,C,35,26,26.0030294380003,2,1.99962905999928,Patient,0,active,Zach Star is bouncing Lily Triangle.,Zach,Star,Lily,Triangle,Base_active_35.jpg,Patient_active_35.jpg
+11,FED_20161114d_3T1_redo,2,C,20,28,28.0033252739995,2,2.00052980000055,Patient,1,passive,Zach Star is being bounced by Lily Triangle.,Lily,Triangle,Zach,Star,Base_passive_20.jpg,Patient_passive_20.jpg
+12,FED_20161114d_3T1_redo,2,C,48,30,30.0044171039999,2,1.99738205199992,Agent,0,active,Melissa Oval is stopping Zach Star.,Melissa,Oval,Zach,Star,Base_active_48.jpg,Agent_active_48.jpg
+13,FED_20161114d_3T1_redo,2,C,39,32,32.002498115,2,1.99923014100023,Agent,0,active,Zach Star is rolling Melissa Oval.,Zach,Star,Melissa,Oval,Base_active_39.jpg,Agent_active_39.jpg
+,FED_20161114d_3T1_redo,2,C,NA,34,34.0023768419996,2,2.00111234700034,0,NA,,NA,NA,NA,NA,NA,,
+14,FED_20161114d_3T1_redo,2,C,25,36,36.0041444339995,2,1.9976268270002,Patient,1,passive,Kyle Square is being shaken by Lily Triangle.,Lily,Triangle,Kyle,Square,Base_passive_25.jpg,Patient_passive_25.jpg
+,FED_20161114d_3T1_redo,2,C,NA,38,38.0025583300003,2,1.99963287299943,0,NA,,NA,NA,NA,NA,NA,,
+15,FED_20161114d_3T1_redo,2,C,27,40,40.0028733700001,2,2.00066956199953,Agent,1,passive,Melissa Oval is being shaken by Lily Triangle.,Lily,Triangle,Melissa,Oval,Base_passive_27.jpg,Agent_passive_27.jpg
+16,FED_20161114d_3T1_redo,2,C,53,42,42.0042745109995,2,1.99803980400065,Agent,1,passive,Lily Triangle is being rolled by Melissa Oval.,Melissa,Oval,Lily,Triangle,Base_passive_53.jpg,Agent_passive_53.jpg
+,FED_20161114d_3T1_redo,2,C,NA,44,44.0031046969998,2,1.99907182900006,0,NA,,NA,NA,NA,NA,NA,,
+17,FED_20161114d_3T1_redo,2,C,55,46,46.0032803160002,2,2.00063219299955,Agent,1,passive,Kyle Square is being shaken by Melissa Oval.,Melissa,Oval,Kyle,Square,Base_passive_55.jpg,Agent_passive_55.jpg
+18,FED_20161114d_3T1_redo,2,C,13,48,48.0044903830003,2,1.99730865899983,Agent,0,active,Kyle Square is balancing Lily Triangle.,Kyle,Square,Lily,Triangle,Base_active_13.jpg,Agent_active_13.jpg
+,FED_20161114d_3T1_redo,2,C,NA,50,50.0024523940001,4,3.99982871500015,0,NA,,NA,NA,NA,NA,NA,,
+19,FED_20161114d_3T1_redo,2,C,37,54,54.0030100699996,2,1.99901699200018,Patient,0,active,Zach Star is rolling Kyle Square.,Zach,Star,Kyle,Square,Base_active_37.jpg,Patient_active_37.jpg
+20,FED_20161114d_3T1_redo,2,C,21,56,56.002655241,2,2.00104412899964,Patient,1,passive,Melissa Oval is being bounced by Lily Triangle.,Lily,Triangle,Melissa,Oval,Base_passive_21.jpg,Patient_passive_21.jpg
+21,FED_20161114d_3T1_redo,2,C,28,58,58.0042880689998,2,1.99820448999981,Patient,0,active,Lily Triangle is balancing Kyle Square.,Lily,Triangle,Kyle,Square,Base_active_28.jpg,Patient_active_28.jpg
+22,FED_20161114d_3T1_redo,2,C,18,60,60.0030752289995,2,1.99911292300021,Agent,0,active,Lily Triangle is stopping Melissa Oval.,Lily,Triangle,Melissa,Oval,Base_active_18.jpg,Agent_active_18.jpg
+23,FED_20161114d_3T1_redo,2,C,17,62,62.0029321479997,2,1.99946063100015,Agent,0,active,Lily Triangle is stopping Zach Star.,Lily,Triangle,Zach,Star,Base_active_17.jpg,Agent_active_17.jpg
+,FED_20161114d_3T1_redo,2,C,NA,64,64.0032241420004,2,2.00012331299968,0,NA,,NA,NA,NA,NA,NA,,
+24,FED_20161114d_3T1_redo,2,C,54,66,66.003950886,2,1.99791599400032,Agent,1,passive,Zach Star is being rolled by Melissa Oval.,Melissa,Oval,Zach,Star,Base_passive_54.jpg,Agent_passive_54.jpg
+25,FED_20161114d_3T1_redo,2,C,23,68,68.0024263619998,2,2.00214314999994,Agent,1,passive,Zach Star is being rolled by Lily Triangle.,Lily,Triangle,Zach,Star,Base_passive_23.jpg,Agent_passive_23.jpg
+26,FED_20161114d_3T1_redo,2,C,58,70,70.0054015349997,2,1.99684216100013,Patient,1,passive,Kyle Square is being balanced by Melissa Oval.,Melissa,Oval,Kyle,Square,Base_passive_58.jpg,Patient_passive_58.jpg
+27,FED_20161114d_3T1_redo,2,C,56,72,72.0028024630001,2,2.00084091600002,Agent,0,active,Melissa Oval is shaking Lily Triangle.,Melissa,Oval,Lily,Triangle,Base_active_56.jpg,Agent_active_56.jpg
+,FED_20161114d_3T1_redo,2,C,NA,74,74.0042454229997,2,1.99854881200008,0,NA,,NA,NA,NA,NA,NA,,
+28,FED_20161114d_3T1_redo,2,C,1,76,76.0034295939995,2,1.9997440470006,Patient,0,active,Kyle Square is stopping Lily Triangle.,Kyle,Square,Lily,Triangle,Base_active_1.jpg,Patient_active_1.jpg
+29,FED_20161114d_3T1_redo,2,C,19,78,78.0040485729996,2,1.99910287600051,Patient,1,passive,Kyle Square is being bounced by Lily Triangle.,Lily,Triangle,Kyle,Square,Base_passive_19.jpg,Patient_passive_19.jpg
+30,FED_20161114d_3T1_redo,2,C,47,80,80.0038966700004,2,1.99910446899958,Agent,0,active,Melissa Oval is stopping Lily Triangle.,Melissa,Oval,Lily,Triangle,Base_active_47.jpg,Agent_active_47.jpg
+,FED_20161114d_3T1_redo,2,C,NA,82,82.0037676000002,2,1.99796806399991,0,NA,,NA,NA,NA,NA,NA,,
+31,FED_20161114d_3T1_redo,2,C,41,84,84.0023463199996,2,1.99959360699995,Agent,0,active,Zach Star is shaking Lily Triangle.,Zach,Star,Lily,Triangle,Base_active_41.jpg,Agent_active_41.jpg
+32,FED_20161114d_3T1_redo,2,C,20,86,86.0024913320003,2,2.00006393999956,Agent,1,passive,Zach Star is being bounced by Lily Triangle.,Lily,Triangle,Zach,Star,Base_passive_20.jpg,Agent_passive_20.jpg
+33,FED_20161114d_3T1_redo,2,C,48,88,88.0031225450002,2,1.99887023099927,Patient,0,active,Melissa Oval is stopping Zach Star.,Melissa,Oval,Zach,Star,Base_active_48.jpg,Patient_active_48.jpg
+,FED_20161114d_3T1_redo,2,C,NA,90,90.0025580780002,4,3.99971510999967,0,NA,,NA,NA,NA,NA,NA,,
+34,FED_20161114d_3T1_redo,2,C,6,94,94.0028632329995,2,2.00010113999997,Agent,1,passive,Melissa Oval is being bounced by Kyle Square.,Kyle,Square,Melissa,Oval,Base_passive_6.jpg,Agent_passive_6.jpg
+,FED_20161114d_3T1_redo,2,C,NA,96,96.0035178990001,2,1.99911141199937,0,NA,,NA,NA,NA,NA,NA,,
+35,FED_20161114d_3T1_redo,2,C,30,98,98.0032122749999,2,1.99938309400022,Patient,0,active,Lily Triangle is balancing Melissa Oval.,Lily,Triangle,Melissa,Oval,Base_active_30.jpg,Patient_active_30.jpg
+36,FED_20161114d_3T1_redo,2,C,24,100,100.003158918,2,1.99916302099973,Patient,0,active,Lily Triangle is rolling Melissa Oval.,Lily,Triangle,Melissa,Oval,Base_active_24.jpg,Patient_active_24.jpg
+37,FED_20161114d_3T1_redo,2,C,29,102,102.00286153,2,2.00033972500023,Agent,1,passive,Zach Star is being balanced by Lily Triangle.,Lily,Triangle,Zach,Star,Base_passive_29.jpg,Agent_passive_29.jpg
+,FED_20161114d_3T1_redo,2,C,NA,104,104.003821129,6,5.99890641399998,0,NA,,NA,NA,NA,NA,NA,,
+38,FED_20161114d_3T1_redo,2,C,32,110,110.00332555,2,1.99916667499929,Agent,1,passive,Lily Triangle is being stopped by Zach Star.,Zach,Star,Lily,Triangle,Base_passive_32.jpg,Agent_passive_32.jpg
+39,FED_20161114d_3T1_redo,2,C,10,112,112.003098174,2,1.99944868999955,Agent,1,passive,Lily Triangle is being shaken by Kyle Square.,Kyle,Square,Lily,Triangle,Base_passive_10.jpg,Agent_passive_10.jpg
+40,FED_20161114d_3T1_redo,2,C,28,114,114.003151695,2,1.99909689800006,Agent,0,active,Lily Triangle is balancing Kyle Square.,Lily,Triangle,Kyle,Square,Base_active_28.jpg,Agent_active_28.jpg
+41,FED_20161114d_3T1_redo,2,C,14,116,116.002827341,2,1.99988439800018,Patient,1,passive,Zach Star is being balanced by Kyle Square.,Kyle,Square,Zach,Star,Base_passive_14.jpg,Patient_passive_14.jpg
+42,FED_20161114d_3T1_redo,2,C,21,118,118.003347146,2,1.99917982499937,Agent,1,passive,Melissa Oval is being bounced by Lily Triangle.,Lily,Triangle,Melissa,Oval,Base_passive_21.jpg,Agent_passive_21.jpg
+,FED_20161114d_3T1_redo,2,C,NA,120,120.003133699,4,3.99928619000002,0,NA,,NA,NA,NA,NA,NA,,
+43,FED_20161114d_3T1_redo,2,C,52,124,124.003050338,2,1.99942667899995,Agent,1,passive,Kyle Square is being rolled by Melissa Oval.,Melissa,Oval,Kyle,Square,Base_passive_52.jpg,Agent_passive_52.jpg
+,FED_20161114d_3T1_redo,2,C,NA,126,126.003066295,2,1.99954228599927,0,NA,,NA,NA,NA,NA,NA,,
+44,FED_20161114d_3T1_redo,2,C,3,128,128.003226927,2,1.99973580200003,Agent,0,active,Kyle Square is stopping Melissa Oval.,Kyle,Square,Melissa,Oval,Base_active_3.jpg,Agent_active_3.jpg
+,FED_20161114d_3T1_redo,2,C,NA,130,130.003522746,6,5.99958276199959,0,NA,,NA,NA,NA,NA,NA,,
+45,FED_20161114d_3T1_redo,2,C,55,136,136.003680445,2,1.99852681299944,Patient,1,passive,Kyle Square is being shaken by Melissa Oval.,Melissa,Oval,Kyle,Square,Base_passive_55.jpg,Patient_passive_55.jpg
+46,FED_20161114d_3T1_redo,2,C,26,138,138.002785395,2,1.99913055600064,Patient,1,passive,Zach Star is being shaken by Lily Triangle.,Lily,Triangle,Zach,Star,Base_passive_26.jpg,Patient_passive_26.jpg
+,FED_20161114d_3T1_redo,2,C,NA,140,140.002594047,2,1.99933512600001,0,NA,,NA,NA,NA,NA,NA,,
+47,FED_20161114d_3T1_redo,2,C,12,142,142.00261245,2,2.0001667939996,Patient,0,active,Kyle Square is shaking Melissa Oval.,Kyle,Square,Melissa,Oval,Base_active_12.jpg,Patient_active_12.jpg
+48,FED_20161114d_3T1_redo,2,C,16,144,144.003326931,2,1.99871231799989,Agent,1,passive,Kyle Square is being stopped by Lily Triangle.,Lily,Triangle,Kyle,Square,Base_passive_16.jpg,Agent_passive_16.jpg
+49,FED_20161114d_3T1_redo,2,C,31,146,146.002685457,2,2.00067805300023,Agent,1,passive,Kyle Square is being stopped by Zach Star.,Zach,Star,Kyle,Square,Base_passive_31.jpg,Agent_passive_31.jpg
+,FED_20161114d_3T1_redo,2,C,NA,148,148.003954282,2,1.99869356100044,0,NA,,NA,NA,NA,NA,NA,,
+50,FED_20161114d_3T1_redo,2,C,44,150,150.003223779,2,1.99868311599948,Agent,0,active,Zach Star is balancing Lily Triangle.,Zach,Star,Lily,Triangle,Base_active_44.jpg,Agent_active_44.jpg
+,FED_20161114d_3T1_redo,2,C,NA,152,152.00258012,2,2.00018627499958,0,NA,,NA,NA,NA,NA,NA,,
+51,FED_20161114d_3T1_redo,2,C,39,154,154.003332192,2,1.99856256099974,Patient,0,active,Zach Star is rolling Melissa Oval.,Zach,Star,Melissa,Oval,Base_active_39.jpg,Patient_active_39.jpg
+,FED_20161114d_3T1_redo,2,C,NA,156,156.002582907,2,2.00007863599967,0,NA,,NA,NA,NA,NA,NA,,
+52,FED_20161114d_3T1_redo,2,C,57,158,158.00323361,2,1.99874518899924,Agent,0,active,Melissa Oval is shaking Zach Star.,Melissa,Oval,Zach,Star,Base_active_57.jpg,Agent_active_57.jpg
+53,FED_20161114d_3T1_redo,2,C,46,160,160.002574377,2,1.99934082099935,Patient,1,passive,Kyle Square is being stopped by Melissa Oval.,Melissa,Oval,Kyle,Square,Base_passive_46.jpg,Patient_passive_46.jpg
+54,FED_20161114d_3T1_redo,2,C,5,162,162.002589635,2,1.99947268699998,Agent,1,passive,Zach Star is being bounced by Kyle Square.,Kyle,Square,Zach,Star,Base_passive_5.jpg,Agent_passive_5.jpg
+55,FED_20161114d_3T1_redo,2,C,22,164,164.002729109,2,2.00022121799975,Patient,1,passive,Kyle Square is being rolled by Lily Triangle.,Lily,Triangle,Kyle,Square,Base_passive_22.jpg,Patient_passive_22.jpg
+,FED_20161114d_3T1_redo,2,C,NA,166,166.003501005,2,1.99816929600001,0,NA,,NA,NA,NA,NA,NA,,
+56,FED_20161114d_3T1_redo,2,C,34,168,168.002216293,2,2.00077289500041,Agent,0,active,Zach Star is bouncing Kyle Square.,Zach,Star,Kyle,Square,Base_active_34.jpg,Agent_active_34.jpg
+,FED_20161114d_3T1_redo,2,C,NA,170,170.003662031,4,3.99770640599945,0,NA,,NA,NA,NA,NA,NA,,
+57,FED_20161114d_3T1_redo,2,C,10,174,174.001912793,2,2.00106590300038,Patient,1,passive,Lily Triangle is being shaken by Kyle Square.,Kyle,Square,Lily,Triangle,Base_passive_10.jpg,Patient_passive_10.jpg
+58,FED_20161114d_3T1_redo,2,C,51,176,176.003670702,2,1.99819781600036,Patient,0,active,Melissa Oval is bouncing Zach Star.,Melissa,Oval,Zach,Star,Base_active_51.jpg,Patient_active_51.jpg
+59,FED_20161114d_3T1_redo,2,C,12,178,178.002401742,2,1.99964266200004,Agent,0,active,Kyle Square is shaking Melissa Oval.,Kyle,Square,Melissa,Oval,Base_active_12.jpg,Agent_active_12.jpg
+60,FED_20161114d_3T1_redo,2,C,25,180,180.002578299,2,1.99948906300051,Agent,1,passive,Kyle Square is being shaken by Lily Triangle.,Lily,Triangle,Kyle,Square,Base_passive_25.jpg,Agent_passive_25.jpg
+,FED_20161114d_3T1_redo,2,C,NA,182,182.002590131,2,1.99950612999965,0,NA,,NA,NA,NA,NA,NA,,
+61,FED_20161114d_3T1_redo,2,C,34,184,184.002647675999,2,1.99947323100059,Patient,0,active,Zach Star is bouncing Kyle Square.,Zach,Star,Kyle,Square,Base_active_34.jpg,Patient_active_34.jpg
+62,FED_20161114d_3T1_redo,2,C,9,186,186.002648021,2,1.99981695400038,Patient,0,active,Kyle Square is rolling Melissa Oval.,Kyle,Square,Melissa,Oval,Base_active_9.jpg,Patient_active_9.jpg
+63,FED_20161114d_3T1_redo,2,C,17,188,188.0029864,2,1.99883058900014,Patient,0,active,Lily Triangle is stopping Zach Star.,Lily,Triangle,Zach,Star,Base_active_17.jpg,Patient_active_17.jpg
+64,FED_20161114d_3T1_redo,2,C,9,190,190.002349762,2,1.99932493000051,Agent,0,active,Kyle Square is rolling Melissa Oval.,Kyle,Square,Melissa,Oval,Base_active_9.jpg,Agent_active_9.jpg
+,FED_20161114d_3T1_redo,2,C,NA,192,192.002200387,2,1.99930972099992,0,NA,,NA,NA,NA,NA,NA,,
+65,FED_20161114d_3T1_redo,2,C,8,194,194.002054447,2,2.0001027899998,Patient,0,active,Kyle Square is rolling Zach Star.,Kyle,Square,Zach,Star,Base_active_8.jpg,Patient_active_8.jpg
+66,FED_20161114d_3T1_redo,2,C,51,196,196.002687056,2,2.00017066500004,Agent,0,active,Melissa Oval is bouncing Zach Star.,Melissa,Oval,Zach,Star,Base_active_51.jpg,Agent_active_51.jpg
+67,FED_20161114d_3T1_redo,2,C,38,198,198.003404713,2,1.99979022599928,Patient,1,passive,Lily Triangle is being rolled by Zach Star.,Zach,Star,Lily,Triangle,Base_passive_38.jpg,Patient_passive_38.jpg
+68,FED_20161114d_3T1_redo,2,C,14,200,200.003729608,2,1.99877669200032,Agent,1,passive,Zach Star is being balanced by Kyle Square.,Kyle,Square,Zach,Star,Base_passive_14.jpg,Agent_passive_14.jpg
+69,FED_20161114d_3T1_redo,2,C,42,202,202.003041293,2,1.99915140400026,Patient,0,active,Zach Star is shaking Melissa Oval.,Zach,Star,Melissa,Oval,Base_active_42.jpg,Patient_active_42.jpg
+70,FED_20161114d_3T1_redo,2,C,43,204,204.002723869,2,1.99983756399979,Agent,0,active,Zach Star is balancing Kyle Square.,Zach,Star,Kyle,Square,Base_active_43.jpg,Agent_active_43.jpg
+71,FED_20161114d_3T1_redo,2,C,4,206,206.003083741,2,1.99974326400024,Patient,1,passive,Lily Triangle is being bounced by Kyle Square.,Kyle,Square,Lily,Triangle,Base_passive_4.jpg,Patient_passive_4.jpg
+,FED_20161114d_3T1_redo,2,C,NA,208,208.003357531,2,1.99804390200006,0,NA,,NA,NA,NA,NA,NA,,
+72,FED_20161114d_3T1_redo,2,C,33,210,210.001960093,2,2.00104066400036,Patient,0,active,Zach Star is stopping Melissa Oval.,Zach,Star,Melissa,Oval,Base_active_33.jpg,Patient_active_33.jpg
+73,FED_20161114d_3T1_redo,2,C,46,212,212.003521821,2,1.99879989100009,Agent,1,passive,Kyle Square is being stopped by Melissa Oval.,Melissa,Oval,Kyle,Square,Base_passive_46.jpg,Agent_passive_46.jpg
+,FED_20161114d_3T1_redo,2,C,NA,214,214.002849595,2,1.99982617899968,0,NA,,NA,NA,NA,NA,NA,,
+74,FED_20161114d_3T1_redo,2,C,22,216,216.003219077,2,1.99976021299972,Agent,1,passive,Kyle Square is being rolled by Lily Triangle.,Lily,Triangle,Kyle,Square,Base_passive_22.jpg,Agent_passive_22.jpg
+75,FED_20161114d_3T1_redo,2,C,47,218,218.003510675,2,1.99874829500004,Patient,0,active,Melissa Oval is stopping Lily Triangle.,Melissa,Oval,Lily,Triangle,Base_active_47.jpg,Patient_active_47.jpg
+76,FED_20161114d_3T1_redo,2,C,19,220,220.002784200999,2,1.99928784400072,Agent,1,passive,Kyle Square is being bounced by Lily Triangle.,Lily,Triangle,Kyle,Square,Base_passive_19.jpg,Agent_passive_19.jpg
+77,FED_20161114d_3T1_redo,2,C,11,222,222.00259915,2,1.99977358100023,Patient,0,active,Kyle Square is shaking Zach Star.,Kyle,Square,Zach,Star,Base_active_11.jpg,Patient_active_11.jpg
+,FED_20161114d_3T1_redo,2,C,NA,224,224.002901848,4,3.99937277400022,0,NA,,NA,NA,NA,NA,NA,,
+78,FED_20161114d_3T1_redo,2,C,50,228,228.002821434,2,2.00000892299977,Agent,1,passive,Lily Triangle is being bounced by Melissa Oval.,Melissa,Oval,Lily,Triangle,Base_passive_50.jpg,Agent_passive_50.jpg
+,FED_20161114d_3T1_redo,2,C,NA,230,230.003366340999,2,1.99913604500034,0,NA,,NA,NA,NA,NA,NA,,
+79,FED_20161114d_3T1_redo,2,C,50,232,232.00304223,2,1.99862570200003,Patient,1,passive,Lily Triangle is being bounced by Melissa Oval.,Melissa,Oval,Lily,Triangle,Base_passive_50.jpg,Patient_passive_50.jpg
+,FED_20161114d_3T1_redo,2,C,NA,234,234.002191617,4,4.00007970200022,0,NA,,NA,NA,NA,NA,NA,,
+80,FED_20161114d_3T1_redo,2,C,4,238,238.002813798,2,1.99946033200013,Agent,1,passive,Lily Triangle is being bounced by Kyle Square.,Kyle,Square,Lily,Triangle,Base_passive_4.jpg,Agent_passive_4.jpg
+81,FED_20161114d_3T1_redo,2,C,11,240,240.002794962,2,2.00025045799975,Agent,0,active,Kyle Square is shaking Zach Star.,Kyle,Square,Zach,Star,Base_active_11.jpg,Agent_active_11.jpg
+82,FED_20161114d_3T1_redo,2,C,16,242,242.003579323999,2,1.99937258800037,Patient,1,passive,Kyle Square is being stopped by Lily Triangle.,Lily,Triangle,Kyle,Square,Base_passive_16.jpg,Patient_passive_16.jpg
+,FED_20161114d_3T1_redo,2,C,NA,244,244.003483965,2,1.99861189900003,0,NA,,NA,NA,NA,NA,NA,,
+83,FED_20161114d_3T1_redo,2,C,36,246,246.002640461,2,1.99976724200042,Agent,1,passive,Melissa Oval is being bounced by Zach Star.,Zach,Star,Melissa,Oval,Base_passive_36.jpg,Agent_passive_36.jpg
+,FED_20161114d_3T1_redo,2,C,NA,248,248.002943524,2,1.99846367099963,0,NA,,NA,NA,NA,NA,NA,,
+84,FED_20161114d_3T1_redo,2,C,53,250,250.001949852,2,2.00146875600058,Patient,1,passive,Lily Triangle is being rolled by Melissa Oval.,Melissa,Oval,Lily,Triangle,Base_passive_53.jpg,Patient_passive_53.jpg
+85,FED_20161114d_3T1_redo,2,C,2,252,252.004055255,2,1.99894879699968,Agent,1,passive,Zach Star is being stopped by Kyle Square.,Kyle,Square,Zach,Star,Base_passive_2.jpg,Agent_passive_2.jpg
+,FED_20161114d_3T1_redo,2,C,NA,254,254.003531196,2,1.99798136299978,0,NA,,NA,NA,NA,NA,NA,,
+86,FED_20161114d_3T1_redo,2,C,57,256,256.002058518,2,2.00105391899979,Patient,0,active,Melissa Oval is shaking Zach Star.,Melissa,Oval,Zach,Star,Base_active_57.jpg,Patient_active_57.jpg
+,FED_20161114d_3T1_redo,2,C,NA,258,258.003637188,2,1.99894880500051,0,NA,,NA,NA,NA,NA,NA,,
+87,FED_20161114d_3T1_redo,2,C,33,260,260.003138119,2,1.99964714899943,Agent,0,active,Zach Star is stopping Melissa Oval.,Zach,Star,Melissa,Oval,Base_active_33.jpg,Agent_active_33.jpg
+88,FED_20161114d_3T1_redo,2,C,18,262,262.003313186,2,1.99951007399977,Patient,0,active,Lily Triangle is stopping Melissa Oval.,Lily,Triangle,Melissa,Oval,Base_active_18.jpg,Patient_active_18.jpg
+89,FED_20161114d_3T1_redo,2,C,15,264,264.003342488,2,1.99879965699984,Agent,1,passive,Melissa Oval is being balanced by Kyle Square.,Kyle,Square,Melissa,Oval,Base_passive_15.jpg,Agent_passive_15.jpg
+,FED_20161114d_3T1_redo,2,C,NA,266,266.00266687,4,3.99956286199995,0,NA,,NA,NA,NA,NA,NA,,
+90,FED_20161114d_3T1_redo,2,C,1,270,270.002771665,2,1.99926779899943,Agent,0,active,Kyle Square is stopping Lily Triangle.,Kyle,Square,Lily,Triangle,Base_active_1.jpg,Agent_active_1.jpg
+91,FED_20161114d_3T1_redo,2,C,29,272,272.002575826,2,1.99986879399967,Patient,1,passive,Zach Star is being balanced by Lily Triangle.,Lily,Triangle,Zach,Star,Base_passive_29.jpg,Patient_passive_29.jpg
+92,FED_20161114d_3T1_redo,2,C,60,274,274.002979555,2,2.00031299500006,Agent,0,active,Melissa Oval is balancing Zach Star.,Melissa,Oval,Zach,Star,Base_active_60.jpg,Agent_active_60.jpg
+,FED_20161114d_3T1_redo,2,C,NA,276,276.003818763,2,1.99796128900016,0,NA,,NA,NA,NA,NA,NA,,
+93,FED_20161114d_3T1_redo,2,C,2,278,278.002325738,2,2.0008548349997,Patient,1,passive,Zach Star is being stopped by Kyle Square.,Kyle,Square,Zach,Star,Base_passive_2.jpg,Patient_passive_2.jpg
+94,FED_20161114d_3T1_redo,2,C,54,280,280.003909704,2,1.99836767200031,Patient,1,passive,Zach Star is being rolled by Melissa Oval.,Melissa,Oval,Zach,Star,Base_passive_54.jpg,Patient_passive_54.jpg
+95,FED_20161114d_3T1_redo,2,C,45,282,282.00280402,2,1.99987845900068,Agent,1,passive,Melissa Oval is being balanced by Zach Star.,Zach,Star,Melissa,Oval,Base_passive_45.jpg,Agent_passive_45.jpg
+96,FED_20161114d_3T1_redo,2,C,23,284,284.003206749,2,1.99940383299963,Patient,1,passive,Zach Star is being rolled by Lily Triangle.,Lily,Triangle,Zach,Star,Base_passive_23.jpg,Patient_passive_23.jpg
+,FED_20161114d_3T1_redo,2,C,NA,286,286.003137611,2,1.99958996999976,0,NA,,NA,NA,NA,NA,NA,,
+97,FED_20161114d_3T1_redo,2,C,52,288,288.003270471,2,1.99906094400012,Patient,1,passive,Kyle Square is being rolled by Melissa Oval.,Melissa,Oval,Kyle,Square,Base_passive_52.jpg,Patient_passive_52.jpg
+,FED_20161114d_3T1_redo,2,C,NA,290,290.002853576,2,1.99919291399965,0,NA,,NA,NA,NA,NA,NA,,
+98,FED_20161114d_3T1_redo,2,C,7,292,292.002580954,2,1.99971419699978,Patient,0,active,Kyle Square is rolling Lily Triangle.,Kyle,Square,Lily,Triangle,Base_active_7.jpg,Patient_active_7.jpg
+99,FED_20161114d_3T1_redo,2,C,60,294,294.002819555,2,1.99936867799988,Patient,0,active,Melissa Oval is balancing Zach Star.,Melissa,Oval,Zach,Star,Base_active_60.jpg,Patient_active_60.jpg
+100,FED_20161114d_3T1_redo,2,C,41,296,296.002707751,2,2.00032115299928,Patient,0,active,Zach Star is shaking Lily Triangle.,Zach,Star,Lily,Triangle,Base_active_41.jpg,Patient_active_41.jpg
+101,FED_20161114d_3T1_redo,2,C,3,298,298.00355111,2,1.99810292100028,Patient,0,active,Kyle Square is stopping Melissa Oval.,Kyle,Square,Melissa,Oval,Base_active_3.jpg,Patient_active_3.jpg
+,FED_20161114d_3T1_redo,2,C,NA,300,300.00217426,2,1.99947705399973,0,NA,,NA,NA,NA,NA,NA,,
+102,FED_20161114d_3T1_redo,2,C,40,302,302.00218667,2,1.99973732200033,Patient,0,active,Zach Star is shaking Kyle Square.,Zach,Star,Kyle,Square,Base_active_40.jpg,Patient_active_40.jpg
+,FED_20161114d_3T1_redo,2,C,NA,304,304.002446579,2,1.99936930399963,0,NA,,NA,NA,NA,NA,NA,,
+103,FED_20161114d_3T1_redo,2,C,58,306,306.002355735,2,2.00042300400037,Agent,1,passive,Kyle Square is being balanced by Melissa Oval.,Melissa,Oval,Kyle,Square,Base_passive_58.jpg,Agent_passive_58.jpg
+104,FED_20161114d_3T1_redo,2,C,5,308,308.003312815,2,1.99959248400046,Patient,1,passive,Zach Star is being bounced by Kyle Square.,Kyle,Square,Zach,Star,Base_passive_5.jpg,Patient_passive_5.jpg
+105,FED_20161114d_3T1_redo,2,C,49,310,310.003442452,2,1.99823398799981,Patient,0,active,Melissa Oval is bouncing Kyle Square.,Melissa,Oval,Kyle,Square,Base_active_49.jpg,Patient_active_49.jpg
+,FED_20161114d_3T1_redo,2,C,NA,312,312.002208536,2,2.00062234600045,0,NA,,NA,NA,NA,NA,NA,,
+106,FED_20161114d_3T1_redo,2,C,27,314,314.003373346,2,1.99863178300075,Patient,1,passive,Melissa Oval is being shaken by Lily Triangle.,Lily,Triangle,Melissa,Oval,Base_passive_27.jpg,Patient_passive_27.jpg
+,FED_20161114d_3T1_redo,2,C,NA,316,316.002531279,2,1.99921437699959,0,NA,,NA,NA,NA,NA,NA,,
+107,FED_20161114d_3T1_redo,2,C,8,318,318.002300659,2,2.00313442700008,Agent,0,active,Kyle Square is rolling Zach Star.,Kyle,Square,Zach,Star,Base_active_8.jpg,Agent_active_8.jpg
+108,FED_20161114d_3T1_redo,2,C,30,320,320.006252807,2,1.99555047000013,Agent,0,active,Lily Triangle is balancing Melissa Oval.,Lily,Triangle,Melissa,Oval,Base_active_30.jpg,Agent_active_30.jpg
+109,FED_20161114d_3T1_redo,2,C,49,322,322.002327693,2,2.00001929400059,Agent,0,active,Melissa Oval is bouncing Kyle Square.,Melissa,Oval,Kyle,Square,Base_active_49.jpg,Agent_active_49.jpg
+110,FED_20161114d_3T1_redo,2,C,40,324,324.002893216,2,1.99895547699998,Agent,0,active,Zach Star is shaking Kyle Square.,Zach,Star,Kyle,Square,Base_active_40.jpg,Agent_active_40.jpg
+111,FED_20161114d_3T1_redo,2,C,24,326,326.002373591,2,1.99977988200044,Agent,0,active,Lily Triangle is rolling Melissa Oval.,Lily,Triangle,Melissa,Oval,Base_active_24.jpg,Agent_active_24.jpg
+112,FED_20161114d_3T1_redo,2,C,7,328,328.002677976,2,1.99907696799983,Agent,0,active,Kyle Square is rolling Lily Triangle.,Kyle,Square,Lily,Triangle,Base_active_7.jpg,Agent_active_7.jpg
+,FED_20161114d_3T1_redo,2,C,NA,330,330.002278857,2,2.00058157300009,0,NA,,NA,NA,NA,NA,NA,,
+113,FED_20161114d_3T1_redo,2,C,42,332,332.00340303,2,1.99933255899941,Agent,0,active,Zach Star is shaking Melissa Oval.,Zach,Star,Melissa,Oval,Base_active_42.jpg,Agent_active_42.jpg
+114,FED_20161114d_3T1_redo,2,C,6,334,334.003260665,2,1.99958985699959,Patient,1,passive,Melissa Oval is being bounced by Kyle Square.,Kyle,Square,Melissa,Oval,Base_passive_6.jpg,Patient_passive_6.jpg
+,FED_20161114d_3T1_redo,2,C,NA,336,336.003375875,2,1.99866571200073,0,NA,,NA,NA,NA,NA,NA,,
+115,FED_20161114d_3T1_redo,2,C,35,338,338.002595727,2,2.0006832680001,Agent,0,active,Zach Star is bouncing Lily Triangle.,Zach,Star,Lily,Triangle,Base_active_35.jpg,Agent_active_35.jpg
+,FED_20161114d_3T1_redo,2,C,NA,340,340.003806112,2,1.99807203399996,0,NA,,NA,NA,NA,NA,NA,,
+116,FED_20161114d_3T1_redo,2,C,15,342,342.002420633,2,1.99960205600019,Patient,1,passive,Melissa Oval is being balanced by Kyle Square.,Kyle,Square,Melissa,Oval,Base_passive_15.jpg,Patient_passive_15.jpg
+,FED_20161114d_3T1_redo,2,C,NA,344,344.002550061,4,3.99915018399952,0,NA,,NA,NA,NA,NA,NA,,
+117,FED_20161114d_3T1_redo,2,C,38,348,348.002240799,2,1.99981184599983,Agent,1,passive,Lily Triangle is being rolled by Zach Star.,Zach,Star,Lily,Triangle,Base_passive_38.jpg,Agent_passive_38.jpg
+118,FED_20161114d_3T1_redo,2,C,31,350,350.002578372,2,2.00009198799944,Patient,1,passive,Kyle Square is being stopped by Zach Star.,Zach,Star,Kyle,Square,Base_passive_31.jpg,Patient_passive_31.jpg
+119,FED_20161114d_3T1_redo,2,C,56,352,352.003195638,2,1.99899317200016,Patient,0,active,Melissa Oval is shaking Lily Triangle.,Melissa,Oval,Lily,Triangle,Base_active_56.jpg,Patient_active_56.jpg
+,FED_20161114d_3T1_redo,2,C,NA,354,354.002716188,4,3.9987468649997,0,NA,,NA,NA,NA,NA,NA,,
+120,FED_20161114d_3T1_redo,2,C,59,358,358.002007549,2,2.00099863600008,Agent,1,passive,Lily Triangle is being balanced by Melissa Oval.,Melissa,Oval,Lily,Triangle,Base_passive_59.jpg,Agent_passive_59.jpg
