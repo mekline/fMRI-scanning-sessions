@@ -1,0 +1,140 @@
+subj,run,item,list,category,sentence,joke ending,nonjoke ending,displayed,response,RT,question onset
+0.0000,8.000,1,139,2,nonjoke,They redecorated the bar with new,drunks,wood,They redecorated the bar with new wood.,<VisionEgg.WrappedText.WrappedText object at 0x10d258d20>
+8.0000,2.000,fix
+10.0000,8.000,1,13,2,nonjoke,A device for finding furniture in the dark is a ,shin,candle,A device for finding furniture in the dark is a candle.,<VisionEgg.WrappedText.WrappedText object at 0x10d258a50>
+18.0000,8.000,1,18,2,joke,"When we watch a sexy movie, my wife leans over and breathes on my",glasses,collar,"When we watch a sexy movie, my wife leans over and breathes on my glasses.",<VisionEgg.WrappedText.WrappedText object at 0x10d258b40>
+26.0000,2.000,fix
+28.0000,8.000,1,85,2,nonjoke,"Frequent naps prevent old age, especially when taken while",driving,relaxed,"Frequent naps prevent old age, especially when taken while relaxed.",<VisionEgg.WrappedText.WrappedText object at 0x10d258c80>
+36.0000,2.000,fix
+38.0000,8.000,1,102,2,joke,We live in a lovely suburb; it's just two miles beyond our,income,town,We live in a lovely suburb; it's just two miles beyond our income.,<VisionEgg.WrappedText.WrappedText object at 0x10d258cd0>
+46.0000,2.000,fix
+48.0000,8.000,1,25,2,nonjoke,The only thing money can't buy is,poverty,generosity,The only thing money can't buy is generosity.,<VisionEgg.WrappedText.WrappedText object at 0x10d258b90>
+56.0000,2.000,fix
+58.0000,8.000,1,105,2,nonjoke,The book that tells you where you can go on vacation is called a,checkbook,guidebook,The book that tells you where you can go on vacation is called a guidebook.,<VisionEgg.WrappedText.WrappedText object at 0x10d258af0>
+66.0000,8.000,1,92,2,joke,"When I asked the bartender for something cold and full of rum, he recommended his",wife,daiquiri,"When I asked the bartender for something cold and full of rum, he recommended his wife.",<VisionEgg.WrappedText.WrappedText object at 0x10d258aa0>
+74.0000,14.000,fix
+88.0000,8.000,1,4,2,joke,I knew a streetwalker who was so exclusive she had an unlisted telephone,booth,line,I knew a streetwalker who was so exclusive she had an unlisted telephone booth.,<VisionEgg.WrappedText.WrappedText object at 0x10d258be0>
+96.0000,2.000,fix
+98.0000,8.000,1,111,2,nonjoke,"Some husbands are good providers, but only if you count",children,salary,"Some husbands are good providers, but only if you count salary.",<VisionEgg.WrappedText.WrappedText object at 0x10d258c30>
+106.0000,2.000,fix
+108.0000,8.000,1,117,2,nonjoke,"All roads lead to Rome, and all detours lead to",profanity,somewhere,"All roads lead to Rome, and all detours lead to somewhere.",<VisionEgg.WrappedText.WrappedText object at 0x1148b9050>
+116.0000,8.000,1,35,2,nonjoke,"Now that the Hollywood couple has ironed out the divorce settlement, they can finally go ahead with their",nuptials,careers,"Now that the Hollywood couple has ironed out the divorce settlement, they can finally go ahead with their careers.",<VisionEgg.WrappedText.WrappedText object at 0x1148b90a0>
+124.0000,12.000,fix
+136.0000,8.000,1,6,2,joke,Sunday is the day we bow our heads and,putt,rest,Sunday is the day we bow our heads and putt.,<VisionEgg.WrappedText.WrappedText object at 0x1148b90f0>
+144.0000,6.000,fix
+150.0000,8.000,1,118,2,joke,Cocktails lounges are usually half lit to match the,patrons,setting,Cocktails lounges are usually half lit to match the patrons.,<VisionEgg.WrappedText.WrappedText object at 0x1148b9190>
+158.0000,4.000,fix
+162.0000,8.000,1,76,2,joke,"Parents support clubs for teenagers, especially when they lack other forms of",punishment,diversion,"Parents support clubs for teenagers, especially when they lack other forms of punishment.",<VisionEgg.WrappedText.WrappedText object at 0x1148b9140>
+170.0000,4.000,fix
+174.0000,8.000,1,42,2,joke,The best way to keep the milk from turning sour is to keep it in the,cow,cold,The best way to keep the milk from turning sour is to keep it in the cow.,<VisionEgg.WrappedText.WrappedText object at 0x1148b91e0>
+182.0000,2.000,fix
+184.0000,8.000,1,70,2,joke,The best gift for the man who has everything is,penicillin,neckties,The best gift for the man who has everything is penicillin.,<VisionEgg.WrappedText.WrappedText object at 0x1148b9230>
+192.0000,8.000,1,141,2,nonjoke,The only crop that is grown in America and harvested abroad is the American,tourist,tobacco,The only crop that is grown in America and harvested abroad is the American tobacco.,<VisionEgg.WrappedText.WrappedText object at 0x1148b9280>
+200.0000,8.000,1,50,2,joke,The only time my father ever raised a hand to his children was in ,self- defense,discipline,The only time my father ever raised a hand to his children was in self- defense.,<VisionEgg.WrappedText.WrappedText object at 0x1148b9320>
+208.0000,4.000,fix
+212.0000,8.000,1,21,2,nonjoke,"She told him he looked like a million, and she meant every",century,syllable,"She told him he looked like a million, and she meant every syllable.",<VisionEgg.WrappedText.WrappedText object at 0x1148b92d0>
+220.0000,6.000,fix
+226.0000,8.000,1,83,2,nonjoke,Nothing ages a woman faster than,identification,hardship,Nothing ages a woman faster than hardship.,<VisionEgg.WrappedText.WrappedText object at 0x1148b9370>
+234.0000,8.000,1,39,2,nonjoke,The best way to remove coffee stains from a white blouse is with,scissors,detergent,The best way to remove coffee stains from a white blouse is with detergent.,<VisionEgg.WrappedText.WrappedText object at 0x1148b9410>
+242.0000,8.000,1,156,2,joke,The only ones who want me for my body are,mosquitos,losers,The only ones who want me for my body are mosquitos.,<VisionEgg.WrappedText.WrappedText object at 0x1148b9460>
+250.0000,8.000,1,146,2,joke,"Love has its benefits, and they are usually called",alimony,memories,"Love has its benefits, and they are usually called alimony.",<VisionEgg.WrappedText.WrappedText object at 0x1148b93c0>
+258.0000,12.000,fix
+270.0000,8.000,1,145,2,nonjoke,The only person who sticks closer to you in adversity than a friend is a,creditor,spouse,The only person who sticks closer to you in adversity than a friend is a spouse.,<VisionEgg.WrappedText.WrappedText object at 0x1148b94b0>
+278.0000,8.000,1,154,2,joke,"This new computer works so quickly, it comes complete with",ulcers,games,"This new computer works so quickly, it comes complete with ulcers.",<VisionEgg.WrappedText.WrappedText object at 0x1148b9550>
+286.0000,2.000,fix
+288.0000,8.000,1,98,2,joke,"Nature has three ways of thinning the herd: drought, famine, and ",primaries,hunting,"Nature has three ways of thinning the herd: drought, famine, and primaries.",<VisionEgg.WrappedText.WrappedText object at 0x1148b9500>
+296.0000,14.000,fix
+310.0000,8.000,1,89,2,nonjoke,"Some babies are born to rule, while others are",male,weak,"Some babies are born to rule, while others are weak.",<VisionEgg.WrappedText.WrappedText object at 0x1148b95a0>
+318.0000,4.000,fix
+322.0000,8.000,1,142,2,joke,She's happy because she finally has a boyfriend who gets along with her,fianc_,father,She's happy because she finally has a boyfriend who gets along with her fianc_.,<VisionEgg.WrappedText.WrappedText object at 0x1148b95f0>
+330.0000,2.000,fix
+332.0000,8.000,1,51,2,nonjoke,I went to a place that serves breakfast any time and ordered French toast in the,Renaissance,nighttime,I went to a place that serves breakfast any time and ordered French toast in the nighttime.,<VisionEgg.WrappedText.WrappedText object at 0x1148b9640>
+340.0000,2.000,fix
+342.0000,8.000,1,8,2,joke,Last Thanksgiving my wife spent all morning in the kitchen stuffing the,kids,bird,Last Thanksgiving my wife spent all morning in the kitchen stuffing the kids.,<VisionEgg.WrappedText.WrappedText object at 0x1148b9690>
+350.0000,4.000,fix
+354.0000,8.000,1,59,2,nonjoke,"Women don't dress to please men; if they did, they'd dress a lot",faster,scantier,"Women don't dress to please men; if they did, they'd dress a lot scantier.",<VisionEgg.WrappedText.WrappedText object at 0x1148b96e0>
+362.0000,2.000,fix
+364.0000,8.000,1,22,2,joke,Our son brought home a note from school saying they need a written excuse for his,presence,tardiness,Our son brought home a note from school saying they need a written excuse for his presence.,<VisionEgg.WrappedText.WrappedText object at 0x1148b9730>
+372.0000,2.000,fix
+374.0000,8.000,1,44,2,joke,The only place where you can find people who spend all their time minding their own business is the ,cemetery,bank,The only place where you can find people who spend all their time minding their own business is the cemetery.,<VisionEgg.WrappedText.WrappedText object at 0x1148b9780>
+382.0000,4.000,fix
+386.0000,8.000,1,2,2,joke,"She went on a fourteen day diet, but she only lost two",weeks,ounces,"She went on a fourteen day diet, but she only lost two weeks.",<VisionEgg.WrappedText.WrappedText object at 0x1148b97d0>
+394.0000,8.000,1,150,2,joke,One way to keep pornography away from teenagers is to put it in a,textbook,cabinet,One way to keep pornography away from teenagers is to put it in a textbook.,<VisionEgg.WrappedText.WrappedText object at 0x1148b9820>
+402.0000,8.000,1,153,2,nonjoke,The husband who catches his wife in the act is probably on the,trapeze,snoop,The husband who catches his wife in the act is probably on the snoop.,<VisionEgg.WrappedText.WrappedText object at 0x1148b98c0>
+410.0000,8.000,fix
+418.0000,8.000,1,3,2,nonjoke,A thoughtful wife has pork chops ready when her husband comes home from,fishing,working,A thoughtful wife has pork chops ready when her husband comes home from working.,<VisionEgg.WrappedText.WrappedText object at 0x1148b9870>
+426.0000,6.000,fix
+432.0000,8.000,1,93,2,nonjoke,"He is probably the best boxer in the country, but he always loses in the ",city,competition,"He is probably the best boxer in the country, but he always loses in the competition.",<VisionEgg.WrappedText.WrappedText object at 0x1148b9910>
+440.0000,4.000,fix
+444.0000,8.000,1,20,2,joke,"He told me he just bought a set of balloon tires, and I told him I didn't even know he owned a",balloon,truck,"He told me he just bought a set of balloon tires, and I told him I didn't even know he owned a balloon.",<VisionEgg.WrappedText.WrappedText object at 0x1148b9960>
+452.0000,8.000,1,133,2,nonjoke,He likes to make things around the house; this week it's the,maid,shelves,He likes to make things around the house; this week it's the shelves.,<VisionEgg.WrappedText.WrappedText object at 0x1148b9a00>
+460.0000,8.000,1,152,2,joke,"Many things run in families, especially",noses,strength,"Many things run in families, especially noses.",<VisionEgg.WrappedText.WrappedText object at 0x1148b99b0>
+468.0000,8.000,1,71,2,nonjoke,Save the whales; start a,collection,coalition,Save the whales; start a coalition.,<VisionEgg.WrappedText.WrappedText object at 0x1148b9a50>
+476.0000,2.000,fix
+478.0000,8.000,1,113,2,nonjoke,Some people's only culture is,bacteria,radio,Some people's only culture is radio.,<VisionEgg.WrappedText.WrappedText object at 0x1148b9aa0>
+486.0000,8.000,1,80,2,joke,He says he doesn't like to drink because it makes him feel,happy,sad,He says he doesn't like to drink because it makes him feel happy.,<VisionEgg.WrappedText.WrappedText object at 0x1148b9b40>
+494.0000,4.000,fix
+498.0000,8.000,1,24,2,joke,"Where I'm from, the two most common elements are hydrogen and ",stupidity,nitrogen,"Where I'm from, the two most common elements are hydrogen and stupidity.",<VisionEgg.WrappedText.WrappedText object at 0x1148b9af0>
+506.0000,8.000,1,5,2,nonjoke,She read so much about the bad effects of cigarettes she decided to give up the,reading,habit,She read so much about the bad effects of cigarettes she decided to give up the habit.,<VisionEgg.WrappedText.WrappedText object at 0x1148b9b90>
+514.0000,2.000,fix
+516.0000,8.000,1,75,2,nonjoke,"When reviewing your notes for a test, the most important ones will be",illegible,capitalized,"When reviewing your notes for a test, the most important ones will be capitalized.",<VisionEgg.WrappedText.WrappedText object at 0x1148b9be0>
+524.0000,2.000,fix
+526.0000,8.000,1,15,2,nonjoke,"When John bought a bulldog, it was no time at all before he had that dog eating out of his",leg,fingers,"When John bought a bulldog, it was no time at all before he had that dog eating out of his fingers.",<VisionEgg.WrappedText.WrappedText object at 0x1148b9c80>
+534.0000,8.000,1,107,2,nonjoke,The difference between a good speaker and a bad one is often a nice,nap,diction,The difference between a good speaker and a bad one is often a nice diction.,<VisionEgg.WrappedText.WrappedText object at 0x1148b9c30>
+542.0000,2.000,fix
+544.0000,8.000,1,34,2,joke,"He asked if I'd join him in a bowl of soup, but I told him we didn't have enough",room,change,"He asked if I'd join him in a bowl of soup, but I told him we didn't have enough room.",<VisionEgg.WrappedText.WrappedText object at 0x1148b9d20>
+552.0000,2.000,fix
+554.0000,8.000,1,52,2,joke,My wife did natural childbirth: no,makeup,anesthetic,My wife did natural childbirth: no makeup.,<VisionEgg.WrappedText.WrappedText object at 0x1148b9d70>
+562.0000,8.000,fix
+FED_20161227a_3T2,1,139,2,nonjoke,They redecorated the bar with new,drunks,wood,They redecorated the bar with new wood.,1,1.8002159595489502,6.009820938110352
+FED_20161227a_3T2,1,13,2,nonjoke,A device for finding furniture in the dark is a ,shin,candle,A device for finding furniture in the dark is a candle.,1,1.5001308917999268,16.011142015457153
+FED_20161227a_3T2,1,18,2,joke,"When we watch a sexy movie, my wife leans over and breathes on my",glasses,collar,"When we watch a sexy movie, my wife leans over and breathes on my glasses.",2,1.0335052013397217,24.012117862701416
+FED_20161227a_3T2,1,85,2,nonjoke,"Frequent naps prevent old age, especially when taken while",driving,relaxed,"Frequent naps prevent old age, especially when taken while relaxed.",1,0.9167468547821045,34.01346206665039
+FED_20161227a_3T2,1,102,2,joke,We live in a lovely suburb; it's just two miles beyond our,income,town,We live in a lovely suburb; it's just two miles beyond our income.,2,1.0501830577850342,44.01473903656006
+FED_20161227a_3T2,1,25,2,nonjoke,The only thing money can't buy is,poverty,generosity,The only thing money can't buy is generosity.,2,1.8835489749908447,54.01610207557678
+FED_20161227a_3T2,1,105,2,nonjoke,The book that tells you where you can go on vacation is called a,checkbook,guidebook,The book that tells you where you can go on vacation is called a guidebook.,3,1.4502339363098145,64.0006799697876
+FED_20161227a_3T2,1,92,2,joke,"When I asked the bartender for something cold and full of rum, he recommended his",wife,daiquiri,"When I asked the bartender for something cold and full of rum, he recommended his wife.",3,1.2167439460754395,72.00174808502197
+FED_20161227a_3T2,1,4,2,joke,I knew a streetwalker who was so exclusive she had an unlisted telephone,booth,line,I knew a streetwalker who was so exclusive she had an unlisted telephone booth.,3,1.350154161453247,94.00462889671326
+FED_20161227a_3T2,1,111,2,nonjoke,"Some husbands are good providers, but only if you count",children,salary,"Some husbands are good providers, but only if you count salary.",2,1.716912031173706,104.00596594810486
+FED_20161227a_3T2,1,117,2,nonjoke,"All roads lead to Rome, and all detours lead to",profanity,somewhere,"All roads lead to Rome, and all detours lead to somewhere.",2,1.6168491840362549,114.00728988647461
+FED_20161227a_3T2,1,35,2,nonjoke,"Now that the Hollywood couple has ironed out the divorce settlement, they can finally go ahead with their",nuptials,careers,"Now that the Hollywood couple has ironed out the divorce settlement, they can finally go ahead with their careers.",1,1.6502361297607422,122.00828790664673
+FED_20161227a_3T2,1,6,2,joke,Sunday is the day we bow our heads and,putt,rest,Sunday is the day we bow our heads and putt.,2,1.4168460369110107,142.01088905334473
+FED_20161227a_3T2,1,118,2,joke,Cocktails lounges are usually half lit to match the,patrons,setting,Cocktails lounges are usually half lit to match the patrons.,3,1.033491849899292,156.01274609565735
+FED_20161227a_3T2,1,76,2,joke,"Parents support clubs for teenagers, especially when they lack other forms of",punishment,diversion,"Parents support clubs for teenagers, especially when they lack other forms of punishment.",3,1.0834331512451172,168.01435089111328
+FED_20161227a_3T2,1,42,2,joke,The best way to keep the milk from turning sour is to keep it in the,cow,cold,The best way to keep the milk from turning sour is to keep it in the cow.,4,1.3500661849975586,180.01588988304138
+FED_20161227a_3T2,1,70,2,joke,The best gift for the man who has everything is,penicillin,neckties,The best gift for the man who has everything is penicillin.,4,0.9333479404449463,190.00055408477783
+FED_20161227a_3T2,1,141,2,nonjoke,The only crop that is grown in America and harvested abroad is the American,tourist,tobacco,The only crop that is grown in America and harvested abroad is the American tobacco.,,,198.00155806541443
+FED_20161227a_3T2,1,50,2,joke,The only time my father ever raised a hand to his children was in ,self- defense,discipline,The only time my father ever raised a hand to his children was in self- defense.,3,0.6667571067810059,206.0026569366455
+FED_20161227a_3T2,1,21,2,nonjoke,"She told him he looked like a million, and she meant every",century,syllable,"She told him he looked like a million, and she meant every syllable.",2,1.6336181163787842,218.00418090820312
+FED_20161227a_3T2,1,83,2,nonjoke,Nothing ages a woman faster than,identification,hardship,Nothing ages a woman faster than hardship.,1,0.8334569931030273,232.00604605674744
+FED_20161227a_3T2,1,39,2,nonjoke,The best way to remove coffee stains from a white blouse is with,scissors,detergent,The best way to remove coffee stains from a white blouse is with detergent.,1,0.9334309101104736,240.00705099105835
+FED_20161227a_3T2,1,156,2,joke,The only ones who want me for my body are,mosquitos,losers,The only ones who want me for my body are mosquitos.,3,0.4500908851623535,248.00811100006104
+FED_20161227a_3T2,1,146,2,joke,"Love has its benefits, and they are usually called",alimony,memories,"Love has its benefits, and they are usually called alimony.",1,1.0834391117095947,256.00920486450195
+FED_20161227a_3T2,1,145,2,nonjoke,The only person who sticks closer to you in adversity than a friend is a,creditor,spouse,The only person who sticks closer to you in adversity than a friend is a spouse.,1,0.9000821113586426,276.01181387901306
+FED_20161227a_3T2,1,154,2,joke,"This new computer works so quickly, it comes complete with",ulcers,games,"This new computer works so quickly, it comes complete with ulcers.",3,0.7834508419036865,284.0128240585327
+FED_20161227a_3T2,1,98,2,joke,"Nature has three ways of thinning the herd: drought, famine, and ",primaries,hunting,"Nature has three ways of thinning the herd: drought, famine, and primaries.",2,0.9667150974273682,294.0142059326172
+FED_20161227a_3T2,1,89,2,nonjoke,"Some babies are born to rule, while others are",male,weak,"Some babies are born to rule, while others are weak.",1,1.033445119857788,316.00039196014404
+FED_20161227a_3T2,1,142,2,joke,She's happy because she finally has a boyfriend who gets along with her,fianc_,father,She's happy because she finally has a boyfriend who gets along with her fianc_.,2,0.9334688186645508,328.0019340515137
+FED_20161227a_3T2,1,51,2,nonjoke,I went to a place that serves breakfast any time and ordered French toast in the,Renaissance,nighttime,I went to a place that serves breakfast any time and ordered French toast in the nighttime.,2,0.7168581485748291,338.0032238960266
+FED_20161227a_3T2,1,8,2,joke,Last Thanksgiving my wife spent all morning in the kitchen stuffing the,kids,bird,Last Thanksgiving my wife spent all morning in the kitchen stuffing the kids.,3,1.1668369770050049,348.00455594062805
+FED_20161227a_3T2,1,59,2,nonjoke,"Women don't dress to please men; if they did, they'd dress a lot",faster,scantier,"Women don't dress to please men; if they did, they'd dress a lot scantier.",1,0.8001301288604736,360.0061318874359
+FED_20161227a_3T2,1,22,2,joke,Our son brought home a note from school saying they need a written excuse for his,presence,tardiness,Our son brought home a note from school saying they need a written excuse for his presence.,4,1.1167469024658203,370.0075080394745
+FED_20161227a_3T2,1,44,2,joke,The only place where you can find people who spend all their time minding their own business is the ,cemetery,bank,The only place where you can find people who spend all their time minding their own business is the cemetery.,3,0.683441162109375,380.00875091552734
+FED_20161227a_3T2,1,2,2,joke,"She went on a fourteen day diet, but she only lost two",weeks,ounces,"She went on a fourteen day diet, but she only lost two weeks.",2,0.9334409236907959,392.0103499889374
+FED_20161227a_3T2,1,150,2,joke,One way to keep pornography away from teenagers is to put it in a,textbook,cabinet,One way to keep pornography away from teenagers is to put it in a textbook.,2,0.45008301734924316,400.01136302948
+FED_20161227a_3T2,1,153,2,nonjoke,The husband who catches his wife in the act is probably on the,trapeze,snoop,The husband who catches his wife in the act is probably on the snoop.,1,1.5669200420379639,408.01237297058105
+FED_20161227a_3T2,1,3,2,nonjoke,A thoughtful wife has pork chops ready when her husband comes home from,fishing,working,A thoughtful wife has pork chops ready when her husband comes home from working.,1,0.8334689140319824,424.0145010948181
+FED_20161227a_3T2,1,93,2,nonjoke,"He is probably the best boxer in the country, but he always loses in the ",city,competition,"He is probably the best boxer in the country, but he always loses in the competition.",3,0.6834421157836914,438.01632595062256
+FED_20161227a_3T2,1,20,2,joke,"He told me he just bought a set of balloon tires, and I told him I didn't even know he owned a",balloon,truck,"He told me he just bought a set of balloon tires, and I told him I didn't even know he owned a balloon.",2,1.4668397903442383,450.0012540817261
+FED_20161227a_3T2,1,133,2,nonjoke,He likes to make things around the house; this week it's the,maid,shelves,He likes to make things around the house; this week it's the shelves.,1,1.3501482009887695,458.00232887268066
+FED_20161227a_3T2,1,152,2,joke,"Many things run in families, especially",noses,strength,"Many things run in families, especially noses.",2,1.3834989070892334,466.0033359527588
+FED_20161227a_3T2,1,71,2,nonjoke,Save the whales; start a,collection,coalition,Save the whales; start a coalition.,1,0.5833711624145508,474.0044069290161
+FED_20161227a_3T2,1,113,2,nonjoke,Some people's only culture is,bacteria,radio,Some people's only culture is radio.,1,0.43346405029296875,484.0056118965149
+FED_20161227a_3T2,1,80,2,joke,He says he doesn't like to drink because it makes him feel,happy,sad,He says he doesn't like to drink because it makes him feel happy.,2,0.4000730514526367,492.00674700737
+FED_20161227a_3T2,1,24,2,joke,"Where I'm from, the two most common elements are hydrogen and ",stupidity,nitrogen,"Where I'm from, the two most common elements are hydrogen and stupidity.",2,0.6501078605651855,504.00829100608826
+FED_20161227a_3T2,1,5,2,nonjoke,She read so much about the bad effects of cigarettes she decided to give up the,reading,habit,She read so much about the bad effects of cigarettes she decided to give up the habit.,3,1.1500978469848633,512.0093710422516
+FED_20161227a_3T2,1,75,2,nonjoke,"When reviewing your notes for a test, the most important ones will be",illegible,capitalized,"When reviewing your notes for a test, the most important ones will be capitalized.",1,1.4002070426940918,522.0105829238892
+FED_20161227a_3T2,1,15,2,nonjoke,"When John bought a bulldog, it was no time at all before he had that dog eating out of his",leg,fingers,"When John bought a bulldog, it was no time at all before he had that dog eating out of his fingers.",1,0.6334400177001953,532.0119729042053
+FED_20161227a_3T2,1,107,2,nonjoke,The difference between a good speaker and a bad one is often a nice,nap,diction,The difference between a good speaker and a bad one is often a nice diction.,1,0.7667191028594971,540.0130519866943
+FED_20161227a_3T2,1,34,2,joke,"He asked if I'd join him in a bowl of soup, but I told him we didn't have enough",room,change,"He asked if I'd join him in a bowl of soup, but I told him we didn't have enough room.",3,0.3667588233947754,550.0143010616302
+FED_20161227a_3T2,1,52,2,joke,My wife did natural childbirth: no,makeup,anesthetic,My wife did natural childbirth: no makeup.,2,0.5666990280151367,560.0156679153442

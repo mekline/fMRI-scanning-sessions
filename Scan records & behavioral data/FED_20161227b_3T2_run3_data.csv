@@ -1,0 +1,135 @@
+subj,run,item,list,category,sentence,joke ending,nonjoke ending,displayed,response,RT,question onset
+0.0000,8.000,3,109,1,joke,Many a freshman helps the college of his choice by becoming a ,dropout,member,Many a freshman helps the college of his choice by becoming a dropout.,<VisionEgg.WrappedText.WrappedText object at 0x10632eb40>
+8.0000,8.000,3,114,1,nonjoke,It's extraordinary what fine poker hand you get when you're playing,bridge,stud,It's extraordinary what fine poker hand you get when you're playing stud.,<VisionEgg.WrappedText.WrappedText object at 0x10632ebe0>
+16.0000,4.000,fix
+20.0000,8.000,3,47,1,joke,"Charged with statutory rape, he told the judge he didn't know she was a ",statue,teenager,"Charged with statutory rape, he told the judge he didn't know she was a statue.",<VisionEgg.WrappedText.WrappedText object at 0x10632ec30>
+28.0000,4.000,fix
+32.0000,8.000,3,91,1,joke,"If there's one thing that counts in business, its",bookkeepers,resources,"If there's one thing that counts in business, its bookkeepers.",<VisionEgg.WrappedText.WrappedText object at 0x10632ecd0>
+40.0000,8.000,3,54,1,nonjoke,The tourist bureau told the visitors there was plenty of hunting in this part of the country but very little,finding,sightseeing,The tourist bureau told the visitors there was plenty of hunting in this part of the country but very little sightseeing.,<VisionEgg.WrappedText.WrappedText object at 0x10632ec80>
+48.0000,2.000,fix
+50.0000,8.000,3,23,1,joke,The curse of heavy drinking is that afterwards you get a huge,bar tab,headache,The curse of heavy drinking is that afterwards you get a huge bar tab.,<VisionEgg.WrappedText.WrappedText object at 0x10632ed20>
+58.0000,4.000,fix
+62.0000,8.000,3,87,1,joke,"It's always nicer to give than to receive, especially when its your",opinion,parents,"It's always nicer to give than to receive, especially when its your opinion.",<VisionEgg.WrappedText.WrappedText object at 0x10632ed70>
+70.0000,8.000,3,111,1,joke,"Some husbands are good providers, but only if you count",children,salary,"Some husbands are good providers, but only if you count children.",<VisionEgg.WrappedText.WrappedText object at 0x10632edc0>
+78.0000,8.000,3,12,1,nonjoke,In some marriages the bride is given away by the ,press,family ,In some marriages the bride is given away by the family .,<VisionEgg.WrappedText.WrappedText object at 0x10632ee10>
+86.0000,2.000,fix
+88.0000,8.000,3,66,1,nonjoke,One good way to invest in the country is to buy a ,senator,business,One good way to invest in the country is to buy a business.,<VisionEgg.WrappedText.WrappedText object at 0x10632ee60>
+96.0000,8.000,3,85,1,joke,"Frequent naps prevent old age, especially when taken while",driving,relaxed,"Frequent naps prevent old age, especially when taken while driving.",<VisionEgg.WrappedText.WrappedText object at 0x10632eeb0>
+104.0000,2.000,fix
+106.0000,8.000,3,122,1,nonjoke,"If you're filthy rich, sending your kids to college is a wonderful", cleaner,luxury,"If you're filthy rich, sending your kids to college is a wonderful luxury.",<VisionEgg.WrappedText.WrappedText object at 0x10632ef50>
+114.0000,8.000,3,18,1,nonjoke,"When we watch a sexy movie, my wife leans over and breathes on my",glasses,collar,"When we watch a sexy movie, my wife leans over and breathes on my collar.",<VisionEgg.WrappedText.WrappedText object at 0x10632efa0>
+122.0000,8.000,3,151,1,joke,One good turn gets most of the,blanket,profit,One good turn gets most of the blanket.,<VisionEgg.WrappedText.WrappedText object at 0x10632ef00>
+130.0000,8.000,3,42,1,nonjoke,The best way to keep the milk from turning sour is to keep it in the,cow,cold,The best way to keep the milk from turning sour is to keep it in the cold.,<VisionEgg.WrappedText.WrappedText object at 0x10d992050>
+138.0000,8.000,3,9,1,joke,"I asked the woman at the party if she remembered me from last year, and she said she never forgets a ",dress,name,"I asked the woman at the party if she remembered me from last year, and she said she never forgets a dress.",<VisionEgg.WrappedText.WrappedText object at 0x10d9920f0>
+146.0000,2.000,fix
+148.0000,8.000,3,115,1,joke,"In the game of golf, nothing counts as much as your",opponent,drives,"In the game of golf, nothing counts as much as your opponent.",<VisionEgg.WrappedText.WrappedText object at 0x10d9920a0>
+156.0000,6.000,fix
+162.0000,8.000,3,67,1,joke,The most prevalent form of legalized gambling is,elections,betting,The most prevalent form of legalized gambling is elections.,<VisionEgg.WrappedText.WrappedText object at 0x10d992140>
+170.0000,8.000,3,7,1,joke,A replacement player hit a home run with my,girl,ball,A replacement player hit a home run with my girl.,<VisionEgg.WrappedText.WrappedText object at 0x10d992190>
+178.0000,8.000,3,80,1,nonjoke,He says he doesn't like to drink because it makes him feel,happy,sad,He says he doesn't like to drink because it makes him feel sad.,<VisionEgg.WrappedText.WrappedText object at 0x10d9921e0>
+186.0000,8.000,3,30,1,nonjoke,Nothing you put in a banana split is as potentially fattening as the,spoon,syrup,Nothing you put in a banana split is as potentially fattening as the syrup.,<VisionEgg.WrappedText.WrappedText object at 0x10d992230>
+194.0000,8.000,3,71,1,joke,Save the whales; start a,collection,coalition,Save the whales; start a collection.,<VisionEgg.WrappedText.WrappedText object at 0x10d9922d0>
+202.0000,8.000,fix
+210.0000,8.000,3,68,1,nonjoke,She always told girls not to look for a husband but just to date,bachelors,someone,She always told girls not to look for a husband but just to date someone.,<VisionEgg.WrappedText.WrappedText object at 0x10d992320>
+218.0000,8.000,3,137,1,joke,A man who has lost ninety percent of his brain is called a,widower,zombie,A man who has lost ninety percent of his brain is called a widower.,<VisionEgg.WrappedText.WrappedText object at 0x10d992280>
+226.0000,2.000,fix
+228.0000,8.000,3,44,1,nonjoke,The only place where you can find people who spend all their time minding their own business is the ,cemetery,bank,The only place where you can find people who spend all their time minding their own business is the bank.,<VisionEgg.WrappedText.WrappedText object at 0x10d992370>
+236.0000,12.000,fix
+248.0000,8.000,3,20,1,nonjoke,"He told me he just bought a set of balloon tires, and I told him I didn't even know he owned a",balloon,truck,"He told me he just bought a set of balloon tires, and I told him I didn't even know he owned a truck.",<VisionEgg.WrappedText.WrappedText object at 0x10d9923c0>
+256.0000,2.000,fix
+258.0000,8.000,3,59,1,joke,"Women don't dress to please men; if they did, they'd dress a lot",faster,scantier,"Women don't dress to please men; if they did, they'd dress a lot faster.",<VisionEgg.WrappedText.WrappedText object at 0x10d992410>
+266.0000,8.000,fix
+274.0000,8.000,3,142,1,nonjoke,She's happy because she finally has a boyfriend who gets along with her,fianc_,father,She's happy because she finally has a boyfriend who gets along with her father.,<VisionEgg.WrappedText.WrappedText object at 0x10d992460>
+282.0000,20.000,fix
+302.0000,8.000,3,1,1,joke,"When I asked how long he should cook the noodles, I said at least ten",inches,seconds,"When I asked how long he should cook the noodles, I said at least ten inches.",<VisionEgg.WrappedText.WrappedText object at 0x10d9924b0>
+310.0000,2.000,fix
+312.0000,8.000,3,81,1,joke,Another thing that has developed by leaps and bounds is modern,dance,science,Another thing that has developed by leaps and bounds is modern dance.,<VisionEgg.WrappedText.WrappedText object at 0x10d992500>
+320.0000,8.000,3,41,1,joke,His doctor recommended he stay flat on his back ever since he was hit by a ,steamroller,motorist,His doctor recommended he stay flat on his back ever since he was hit by a steamroller.,<VisionEgg.WrappedText.WrappedText object at 0x10d992550>
+328.0000,4.000,fix
+332.0000,8.000,3,98,1,nonjoke,"Nature has three ways of thinning the herd: drought, famine, and ",primaries,hunting,"Nature has three ways of thinning the herd: drought, famine, and hunting.",<VisionEgg.WrappedText.WrappedText object at 0x10d9925a0>
+340.0000,2.000,fix
+342.0000,8.000,3,37,1,joke,"The cops claimed that the prisoner just decided to come clean, but most people think he was forced into the",bathtub,admission,"The cops claimed that the prisoner just decided to come clean, but most people think he was forced into the bathtub.",<VisionEgg.WrappedText.WrappedText object at 0x10d9925f0>
+350.0000,8.000,3,86,1,nonjoke,"I asked the florist what I should give to my girlfriend, and he suggested his",address,tulips,"I asked the florist what I should give to my girlfriend, and he suggested his tulips.",<VisionEgg.WrappedText.WrappedText object at 0x10d992640>
+358.0000,2.000,fix
+360.0000,8.000,3,15,1,joke,"When John bought a bulldog, it was no time at all before he had that dog eating out of his",leg,fingers,"When John bought a bulldog, it was no time at all before he had that dog eating out of his leg.",<VisionEgg.WrappedText.WrappedText object at 0x10d992690>
+368.0000,8.000,fix
+376.0000,8.000,3,149,1,joke,"She asked what state he was born in, and he said in the ",nude,East,"She asked what state he was born in, and he said in the nude.",<VisionEgg.WrappedText.WrappedText object at 0x10d9926e0>
+384.0000,12.000,fix
+396.0000,8.000,3,94,1,nonjoke,"To get something done, a committee should consist of no more than three people, two of whom are",dead,workers,"To get something done, a committee should consist of no more than three people, two of whom are workers.",<VisionEgg.WrappedText.WrappedText object at 0x10d992730>
+404.0000,20.000,fix
+424.0000,8.000,3,50,1,nonjoke,The only time my father ever raised a hand to his children was in ,self- defense,discipline,The only time my father ever raised a hand to his children was in discipline.,<VisionEgg.WrappedText.WrappedText object at 0x10d992780>
+432.0000,8.000,3,146,1,nonjoke,"Love has its benefits, and they are usually called",alimony,memories,"Love has its benefits, and they are usually called memories.",<VisionEgg.WrappedText.WrappedText object at 0x10d992820>
+440.0000,8.000,3,103,1,joke,"I still miss my ex-wife, but I am improving my",aim,ego,"I still miss my ex-wife, but I am improving my aim.",<VisionEgg.WrappedText.WrappedText object at 0x10d9927d0>
+448.0000,2.000,fix
+450.0000,8.000,3,27,1,joke,"Once a week they hold a bingo game, and all the proceeds go to fight",gambling,disease,"Once a week they hold a bingo game, and all the proceeds go to fight gambling.",<VisionEgg.WrappedText.WrappedText object at 0x10d992870>
+458.0000,4.000,fix
+462.0000,8.000,3,31,1,joke,"He told her he wasn't himself, and she said she'd noticed the",improvement,problem,"He told her he wasn't himself, and she said she'd noticed the improvement.",<VisionEgg.WrappedText.WrappedText object at 0x10d992910>
+470.0000,2.000,fix
+472.0000,8.000,3,48,1,nonjoke,"The new tax forms are more realistic: where your wife signs, it says","""accomplice""","""partner""","The new tax forms are more realistic: where your wife signs, it says ""partner"".",<VisionEgg.WrappedText.WrappedText object at 0x10d9928c0>
+480.0000,6.000,fix
+486.0000,8.000,3,124,1,nonjoke,"I've got Parkinson's disease, and he's got", mine,gout,"I've got Parkinson's disease, and he's got gout.",<VisionEgg.WrappedText.WrappedText object at 0x10d9929b0>
+494.0000,8.000,3,34,1,nonjoke,"He asked if I'd join him in a bowl of soup, but I told him we didn't have enough",room,change,"He asked if I'd join him in a bowl of soup, but I told him we didn't have enough change.",<VisionEgg.WrappedText.WrappedText object at 0x10d992a00>
+502.0000,2.000,fix
+504.0000,8.000,3,90,1,nonjoke,A vacation is the shortest distance between two,paychecks,locations,A vacation is the shortest distance between two locations.,<VisionEgg.WrappedText.WrappedText object at 0x10d992a50>
+512.0000,8.000,3,52,1,nonjoke,My wife did natural childbirth: no,makeup,anesthetic,My wife did natural childbirth: no anesthetic.,<VisionEgg.WrappedText.WrappedText object at 0x10d992aa0>
+520.0000,8.000,3,100,1,nonjoke,"I hope this train stops at Grand Central because if it doesn't, there will be a ",crash,delay,"I hope this train stops at Grand Central because if it doesn't, there will be a delay.",<VisionEgg.WrappedText.WrappedText object at 0x10d992af0>
+528.0000,2.000,fix
+530.0000,8.000,3,147,1,joke,"When we got divorced, my wife and I split the house; she got the",inside,kitchen,"When we got divorced, my wife and I split the house; she got the inside.",<VisionEgg.WrappedText.WrappedText object at 0x10d992b40>
+538.0000,4.000,fix
+542.0000,8.000,3,136,1,nonjoke,The only fishing through the ice that some men ever do is for the ,olive,trout,The only fishing through the ice that some men ever do is for the trout.,<VisionEgg.WrappedText.WrappedText object at 0x10d992b90>
+550.0000,8.000,3,96,1,nonjoke,"When the kid came into the store and asked for empty boxes, the owner gave him the",register,crate,"When the kid came into the store and asked for empty boxes, the owner gave him the crate.",<VisionEgg.WrappedText.WrappedText object at 0x10d992be0>
+558.0000,2.000,fix
+560.0000,8.000,3,39,1,joke,The best way to remove coffee stains from a white blouse is with,scissors,detergent,The best way to remove coffee stains from a white blouse is with scissors.,<VisionEgg.WrappedText.WrappedText object at 0x10d992c30>
+568.0000,2.000,fix
+FED_20161227b_3T2,3,109,1,joke,Many a freshman helps the college of his choice by becoming a ,dropout,member,Many a freshman helps the college of his choice by becoming a dropout.,1,0.6499378681182861,6.009469032287598
+FED_20161227b_3T2,3,114,1,nonjoke,It's extraordinary what fine poker hand you get when you're playing,bridge,stud,It's extraordinary what fine poker hand you get when you're playing stud.,1,0.4667510986328125,14.010475873947144
+FED_20161227b_3T2,3,47,1,joke,"Charged with statutory rape, he told the judge he didn't know she was a ",statue,teenager,"Charged with statutory rape, he told the judge he didn't know she was a statue.",1,0.4500389099121094,26.01205801963806
+FED_20161227b_3T2,3,91,1,joke,"If there's one thing that counts in business, its",bookkeepers,resources,"If there's one thing that counts in business, its bookkeepers.",2,0.8500261306762695,38.01361393928528
+FED_20161227b_3T2,3,54,1,nonjoke,The tourist bureau told the visitors there was plenty of hunting in this part of the country but very little,finding,sightseeing,The tourist bureau told the visitors there was plenty of hunting in this part of the country but very little sightseeing.,1,0.45006799697875977,46.014657974243164
+FED_20161227b_3T2,3,23,1,joke,The curse of heavy drinking is that afterwards you get a huge,bar tab,headache,The curse of heavy drinking is that afterwards you get a huge bar tab.,1,0.4500250816345215,56.01593589782715
+FED_20161227b_3T2,3,87,1,joke,"It's always nicer to give than to receive, especially when its your",opinion,parents,"It's always nicer to give than to receive, especially when its your opinion.",2,0.5501010417938232,68.00076389312744
+FED_20161227b_3T2,3,111,1,joke,"Some husbands are good providers, but only if you count",children,salary,"Some husbands are good providers, but only if you count children.",1,1.3501460552215576,76.00184297561646
+FED_20161227b_3T2,3,12,1,nonjoke,In some marriages the bride is given away by the ,press,family ,In some marriages the bride is given away by the family .,1,0.4500739574432373,84.00285792350769
+FED_20161227b_3T2,3,66,1,nonjoke,One good way to invest in the country is to buy a ,senator,business,One good way to invest in the country is to buy a business.,1,0.41678380966186523,94.00408005714417
+FED_20161227b_3T2,3,85,1,joke,"Frequent naps prevent old age, especially when taken while",driving,relaxed,"Frequent naps prevent old age, especially when taken while driving.",2,0.4667549133300781,102.00518107414246
+FED_20161227b_3T2,3,122,1,nonjoke,"If you're filthy rich, sending your kids to college is a wonderful", cleaner,luxury,"If you're filthy rich, sending your kids to college is a wonderful luxury.",1,0.48335981369018555,112.00650405883789
+FED_20161227b_3T2,3,18,1,nonjoke,"When we watch a sexy movie, my wife leans over and breathes on my",glasses,collar,"When we watch a sexy movie, my wife leans over and breathes on my collar.",1,0.4667220115661621,120.00746297836304
+FED_20161227b_3T2,3,151,1,joke,One good turn gets most of the,blanket,profit,One good turn gets most of the blanket.,1,0.48337602615356445,128.00851893424988
+FED_20161227b_3T2,3,42,1,nonjoke,The best way to keep the milk from turning sour is to keep it in the,cow,cold,The best way to keep the milk from turning sour is to keep it in the cold.,1,0.7667422294616699,136.00958585739136
+FED_20161227b_3T2,3,9,1,joke,"I asked the woman at the party if she remembered me from last year, and she said she never forgets a ",dress,name,"I asked the woman at the party if she remembered me from last year, and she said she never forgets a dress.",1,0.6667759418487549,144.0105860233307
+FED_20161227b_3T2,3,115,1,joke,"In the game of golf, nothing counts as much as your",opponent,drives,"In the game of golf, nothing counts as much as your opponent.",1,0.5500690937042236,154.0118429660797
+FED_20161227b_3T2,3,67,1,joke,The most prevalent form of legalized gambling is,elections,betting,The most prevalent form of legalized gambling is elections.,1,0.4500389099121094,168.01364398002625
+FED_20161227b_3T2,3,7,1,joke,A replacement player hit a home run with my,girl,ball,A replacement player hit a home run with my girl.,1,0.416733980178833,176.01465487480164
+FED_20161227b_3T2,3,80,1,nonjoke,He says he doesn't like to drink because it makes him feel,happy,sad,He says he doesn't like to drink because it makes him feel sad.,1,0.48336100578308105,184.01570296287537
+FED_20161227b_3T2,3,30,1,nonjoke,Nothing you put in a banana split is as potentially fattening as the,spoon,syrup,Nothing you put in a banana split is as potentially fattening as the syrup.,1,0.48339080810546875,192.0000500679016
+FED_20161227b_3T2,3,71,1,joke,Save the whales; start a,collection,coalition,Save the whales; start a collection.,1,0.40006589889526367,200.0010540485382
+FED_20161227b_3T2,3,68,1,nonjoke,She always told girls not to look for a husband but just to date,bachelors,someone,She always told girls not to look for a husband but just to date someone.,1,0.5334210395812988,216.00309801101685
+FED_20161227b_3T2,3,137,1,joke,A man who has lost ninety percent of his brain is called a,widower,zombie,A man who has lost ninety percent of his brain is called a widower.,1,0.3834879398345947,224.0040099620819
+FED_20161227b_3T2,3,44,1,nonjoke,The only place where you can find people who spend all their time minding their own business is the ,cemetery,bank,The only place where you can find people who spend all their time minding their own business is the bank.,1,0.38338708877563477,234.005441904068
+FED_20161227b_3T2,3,20,1,nonjoke,"He told me he just bought a set of balloon tires, and I told him I didn't even know he owned a",balloon,truck,"He told me he just bought a set of balloon tires, and I told him I didn't even know he owned a truck.",1,0.45014214515686035,254.00787687301636
+FED_20161227b_3T2,3,59,1,joke,"Women don't dress to please men; if they did, they'd dress a lot",faster,scantier,"Women don't dress to please men; if they did, they'd dress a lot faster.",1,0.6834080219268799,264.00922989845276
+FED_20161227b_3T2,3,142,1,nonjoke,She's happy because she finally has a boyfriend who gets along with her,fianc_,father,She's happy because she finally has a boyfriend who gets along with her father.,1,0.6834311485290527,280.01123690605164
+FED_20161227b_3T2,3,1,1,joke,"When I asked how long he should cook the noodles, I said at least ten",inches,seconds,"When I asked how long he should cook the noodles, I said at least ten inches.",1,0.5334360599517822,308.0148069858551
+FED_20161227b_3T2,3,81,1,joke,Another thing that has developed by leaps and bounds is modern,dance,science,Another thing that has developed by leaps and bounds is modern dance.,2,0.8500950336456299,318.0160930156708
+FED_20161227b_3T2,3,41,1,joke,His doctor recommended he stay flat on his back ever since he was hit by a ,steamroller,motorist,His doctor recommended he stay flat on his back ever since he was hit by a steamroller.,1,0.4833860397338867,326.00041699409485
+FED_20161227b_3T2,3,98,1,nonjoke,"Nature has three ways of thinning the herd: drought, famine, and ",primaries,hunting,"Nature has three ways of thinning the herd: drought, famine, and hunting.",1,0.5334229469299316,338.00191497802734
+FED_20161227b_3T2,3,37,1,joke,"The cops claimed that the prisoner just decided to come clean, but most people think he was forced into the",bathtub,admission,"The cops claimed that the prisoner just decided to come clean, but most people think he was forced into the bathtub.",2,0.9333178997039795,348.003298997879
+FED_20161227b_3T2,3,86,1,nonjoke,"I asked the florist what I should give to my girlfriend, and he suggested his",address,tulips,"I asked the florist what I should give to my girlfriend, and he suggested his tulips.",1,0.6668338775634766,356.0041060447693
+FED_20161227b_3T2,3,15,1,joke,"When John bought a bulldog, it was no time at all before he had that dog eating out of his",leg,fingers,"When John bought a bulldog, it was no time at all before he had that dog eating out of his leg.",1,1.0335450172424316,366.0054440498352
+FED_20161227b_3T2,3,149,1,joke,"She asked what state he was born in, and he said in the ",nude,East,"She asked what state he was born in, and he said in the nude.",2,0.7667050361633301,382.00754594802856
+FED_20161227b_3T2,3,94,1,nonjoke,"To get something done, a committee should consist of no more than three people, two of whom are",dead,workers,"To get something done, a committee should consist of no more than three people, two of whom are workers.",1,1.0001230239868164,402.01001501083374
+FED_20161227b_3T2,3,50,1,nonjoke,The only time my father ever raised a hand to his children was in ,self- defense,discipline,The only time my father ever raised a hand to his children was in discipline.,1,0.6667749881744385,430.01352190971375
+FED_20161227b_3T2,3,146,1,nonjoke,"Love has its benefits, and they are usually called",alimony,memories,"Love has its benefits, and they are usually called memories.",1,0.5167818069458008,438.01448106765747
+FED_20161227b_3T2,3,103,1,joke,"I still miss my ex-wife, but I am improving my",aim,ego,"I still miss my ex-wife, but I am improving my aim.",2,0.4500420093536377,446.0155260562897
+FED_20161227b_3T2,3,27,1,joke,"Once a week they hold a bingo game, and all the proceeds go to fight",gambling,disease,"Once a week they hold a bingo game, and all the proceeds go to fight gambling.",1,0.3500490188598633,456.0001530647278
+FED_20161227b_3T2,3,31,1,joke,"He told her he wasn't himself, and she said she'd noticed the",improvement,problem,"He told her he wasn't himself, and she said she'd noticed the improvement.",2,0.46671199798583984,468.0016689300537
+FED_20161227b_3T2,3,48,1,nonjoke,"The new tax forms are more realistic: where your wife signs, it says","""accomplice""","""partner""","The new tax forms are more realistic: where your wife signs, it says ""partner"".",1,1.050158977508545,478.0029549598694
+FED_20161227b_3T2,3,124,1,nonjoke,"I've got Parkinson's disease, and he's got", mine,gout,"I've got Parkinson's disease, and he's got gout.",1,0.6500730514526367,492.00480794906616
+FED_20161227b_3T2,3,34,1,nonjoke,"He asked if I'd join him in a bowl of soup, but I told him we didn't have enough",room,change,"He asked if I'd join him in a bowl of soup, but I told him we didn't have enough change.",1,0.683413028717041,500.00582790374756
+FED_20161227b_3T2,3,90,1,nonjoke,A vacation is the shortest distance between two,paychecks,locations,A vacation is the shortest distance between two locations.,1,0.4333798885345459,510.0071539878845
+FED_20161227b_3T2,3,52,1,nonjoke,My wife did natural childbirth: no,makeup,anesthetic,My wife did natural childbirth: no anesthetic.,1,0.500042200088501,518.0081958770752
+FED_20161227b_3T2,3,100,1,nonjoke,"I hope this train stops at Grand Central because if it doesn't, there will be a ",crash,delay,"I hope this train stops at Grand Central because if it doesn't, there will be a delay.",3,1.0501759052276611,526.009181022644
+FED_20161227b_3T2,3,147,1,joke,"When we got divorced, my wife and I split the house; she got the",inside,kitchen,"When we got divorced, my wife and I split the house; she got the inside.",1,0.650068998336792,536.0105440616608
+FED_20161227b_3T2,3,136,1,nonjoke,The only fishing through the ice that some men ever do is for the ,olive,trout,The only fishing through the ice that some men ever do is for the trout.,1,0.5500199794769287,548.0121290683746
+FED_20161227b_3T2,3,96,1,nonjoke,"When the kid came into the store and asked for empty boxes, the owner gave him the",register,crate,"When the kid came into the store and asked for empty boxes, the owner gave him the crate.",1,0.3500850200653076,556.0130748748779
+FED_20161227b_3T2,3,39,1,joke,The best way to remove coffee stains from a white blouse is with,scissors,detergent,The best way to remove coffee stains from a white blouse is with scissors.,2,0.3833620548248291,566.014396905899

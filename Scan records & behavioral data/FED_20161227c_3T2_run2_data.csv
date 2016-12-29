@@ -1,0 +1,135 @@
+subj,run,item,list,category,sentence,joke ending,nonjoke ending,displayed,response,RT,question onset
+0.0000,8.000,2,106,1,nonjoke,"Every time I wear my spring coat in the rain, it damages the",springs,fabric,"Every time I wear my spring coat in the rain, it damages the fabric.",<VisionEgg.WrappedText.WrappedText object at 0x1110d6d20>
+8.0000,8.000,2,139,1,joke,They redecorated the bar with new,drunks,wood,They redecorated the bar with new drunks.,<VisionEgg.WrappedText.WrappedText object at 0x1110d6cd0>
+16.0000,2.000,fix
+18.0000,8.000,2,45,1,joke,"She is so modest, she pulls down the shade to change her", mind,jacket,"She is so modest, she pulls down the shade to change her mind.",<VisionEgg.WrappedText.WrappedText object at 0x1110d6dc0>
+26.0000,8.000,2,128,1,nonjoke,"Figures don't lie, except on the",beaches,page,"Figures don't lie, except on the page.",<VisionEgg.WrappedText.WrappedText object at 0x1110d6d70>
+34.0000,8.000,2,107,1,joke,The difference between a good speaker and a bad one is often a nice,nap,diction,The difference between a good speaker and a bad one is often a nice nap.,<VisionEgg.WrappedText.WrappedText object at 0x1110d6e60>
+42.0000,8.000,2,84,1,nonjoke,"The convict told his cellmate how he'd blown all the money he stole on wine, women, and ",lawyers,crack,"The convict told his cellmate how he'd blown all the money he stole on wine, women, and crack.",<VisionEgg.WrappedText.WrappedText object at 0x1110d6e10>
+50.0000,2.000,fix
+52.0000,8.000,2,100,1,nonjoke,"I hope this train stops at Grand Central because if it doesn't, there will be a ",crash,delay,"I hope this train stops at Grand Central because if it doesn't, there will be a delay.",<VisionEgg.WrappedText.WrappedText object at 0x1110d6eb0>
+60.0000,2.000,fix
+62.0000,8.000,2,36,1,nonjoke,A problem drinker is one who never,buys,quits,A problem drinker is one who never quits.,<VisionEgg.WrappedText.WrappedText object at 0x1110d6f00>
+70.0000,2.000,fix
+72.0000,8.000,2,119,1,joke,"He told me he's not broke, just badly",bent,off,"He told me he's not broke, just badly bent.",<VisionEgg.WrappedText.WrappedText object at 0x1110d6fa0>
+80.0000,2.000,fix
+82.0000,8.000,2,60,1,nonjoke,Another thing a small boy is constantly outgrowing is his,allowance,underwear,Another thing a small boy is constantly outgrowing is his underwear.,<VisionEgg.WrappedText.WrappedText object at 0x1110d6f50>
+90.0000,8.000,2,40,1,nonjoke,No patient should leave the hospital until he's strong enough to face the,cashier,outside,No patient should leave the hospital until he's strong enough to face the outside.,<VisionEgg.WrappedText.WrappedText object at 0x1186ae050>
+98.0000,2.000,fix
+100.0000,8.000,2,122,1,nonjoke,"If you're filthy rich, sending your kids to college is a wonderful", cleaner,luxury,"If you're filthy rich, sending your kids to college is a wonderful luxury.",<VisionEgg.WrappedText.WrappedText object at 0x1186ae0a0>
+108.0000,8.000,2,49,1,joke,One person who sure makes a long story short is my,editor,aunt,One person who sure makes a long story short is my editor.,<VisionEgg.WrappedText.WrappedText object at 0x1186ae140>
+116.0000,6.000,fix
+122.0000,8.000,2,64,1,nonjoke,The best way to stop an elephant from charging is to cut off its,credit,toes,The best way to stop an elephant from charging is to cut off its toes.,<VisionEgg.WrappedText.WrappedText object at 0x1186ae0f0>
+130.0000,8.000,fix
+138.0000,8.000,2,152,1,nonjoke,"Many things run in families, especially",noses,strength,"Many things run in families, especially strength.",<VisionEgg.WrappedText.WrappedText object at 0x1186ae190>
+146.0000,8.000,2,47,1,joke,"Charged with statutory rape, he told the judge he didn't know she was a ",statue,teenager,"Charged with statutory rape, he told the judge he didn't know she was a statue.",<VisionEgg.WrappedText.WrappedText object at 0x1186ae1e0>
+154.0000,8.000,2,5,1,joke,She read so much about the bad effects of cigarettes she decided to give up the,reading,habit,She read so much about the bad effects of cigarettes she decided to give up the reading.,<VisionEgg.WrappedText.WrappedText object at 0x1186ae280>
+162.0000,6.000,fix
+168.0000,8.000,2,56,1,nonjoke,"When you own an ice cream business, your favorite flavor is",aspirin,everything,"When you own an ice cream business, your favorite flavor is everything.",<VisionEgg.WrappedText.WrappedText object at 0x1186ae230>
+176.0000,8.000,2,81,1,joke,Another thing that has developed by leaps and bounds is modern,dance,science,Another thing that has developed by leaps and bounds is modern dance.,<VisionEgg.WrappedText.WrappedText object at 0x1186ae2d0>
+184.0000,8.000,2,15,1,joke,"When John bought a bulldog, it was no time at all before he had that dog eating out of his",leg,fingers,"When John bought a bulldog, it was no time at all before he had that dog eating out of his leg.",<VisionEgg.WrappedText.WrappedText object at 0x1186ae320>
+192.0000,2.000,fix
+194.0000,8.000,2,96,1,nonjoke,"When the kid came into the store and asked for empty boxes, the owner gave him the",register,crate,"When the kid came into the store and asked for empty boxes, the owner gave him the crate.",<VisionEgg.WrappedText.WrappedText object at 0x1186ae370>
+202.0000,8.000,2,109,1,joke,Many a freshman helps the college of his choice by becoming a ,dropout,member,Many a freshman helps the college of his choice by becoming a dropout.,<VisionEgg.WrappedText.WrappedText object at 0x1186ae3c0>
+210.0000,4.000,fix
+214.0000,8.000,2,4,1,nonjoke,I knew a streetwalker who was so exclusive she had an unlisted telephone,booth,line,I knew a streetwalker who was so exclusive she had an unlisted telephone line.,<VisionEgg.WrappedText.WrappedText object at 0x1186ae410>
+222.0000,8.000,2,31,1,joke,"He told her he wasn't himself, and she said she'd noticed the",improvement,problem,"He told her he wasn't himself, and she said she'd noticed the improvement.",<VisionEgg.WrappedText.WrappedText object at 0x1186ae460>
+230.0000,4.000,fix
+234.0000,8.000,2,57,1,joke,"Congress taxes our income, our property, and our",patience,purchases,"Congress taxes our income, our property, and our patience.",<VisionEgg.WrappedText.WrappedText object at 0x1186ae4b0>
+242.0000,2.000,fix
+244.0000,8.000,2,70,1,nonjoke,The best gift for the man who has everything is,penicillin,neckties,The best gift for the man who has everything is neckties.,<VisionEgg.WrappedText.WrappedText object at 0x1186ae500>
+252.0000,6.000,fix
+258.0000,8.000,2,58,1,nonjoke,The woman who has her husband eating out of her hand must save a lot of,dishwashing,heartbreak,The woman who has her husband eating out of her hand must save a lot of heartbreak.,<VisionEgg.WrappedText.WrappedText object at 0x1186ae550>
+266.0000,2.000,fix
+268.0000,8.000,2,22,1,nonjoke,Our son brought home a note from school saying they need a written excuse for his,presence,tardiness,Our son brought home a note from school saying they need a written excuse for his tardiness.,<VisionEgg.WrappedText.WrappedText object at 0x1186ae5f0>
+276.0000,8.000,2,120,1,nonjoke,Two things are essential for success: wealth and,money,fame,Two things are essential for success: wealth and fame.,<VisionEgg.WrappedText.WrappedText object at 0x1186ae5a0>
+284.0000,22.000,fix
+306.0000,8.000,2,50,1,nonjoke,The only time my father ever raised a hand to his children was in ,self- defense,discipline,The only time my father ever raised a hand to his children was in discipline.,<VisionEgg.WrappedText.WrappedText object at 0x1186ae640>
+314.0000,8.000,2,108,1,nonjoke,Everyone had so much fun diving from the tree into the swimming pool we decided to put in a little,water,platform,Everyone had so much fun diving from the tree into the swimming pool we decided to put in a little platform.,<VisionEgg.WrappedText.WrappedText object at 0x1186ae6e0>
+322.0000,8.000,2,129,1,joke,The perfect companion to a vegetarian dinner is a ,steak,salad,The perfect companion to a vegetarian dinner is a steak.,<VisionEgg.WrappedText.WrappedText object at 0x1186ae730>
+330.0000,2.000,fix
+332.0000,8.000,2,38,1,nonjoke,This fall two things are turning yellow: trees and,investors,bushes,This fall two things are turning yellow: trees and bushes.,<VisionEgg.WrappedText.WrappedText object at 0x1186ae690>
+340.0000,10.000,fix
+350.0000,8.000,2,90,1,nonjoke,A vacation is the shortest distance between two,paychecks,locations,A vacation is the shortest distance between two locations.,<VisionEgg.WrappedText.WrappedText object at 0x1186ae780>
+358.0000,6.000,fix
+364.0000,8.000,2,77,1,joke,He is at the age when all the numbers in his little black book belong to,doctors,friends,He is at the age when all the numbers in his little black book belong to doctors.,<VisionEgg.WrappedText.WrappedText object at 0x1186ae7d0>
+372.0000,8.000,2,94,1,nonjoke,"To get something done, a committee should consist of no more than three people, two of whom are",dead,workers,"To get something done, a committee should consist of no more than three people, two of whom are workers.",<VisionEgg.WrappedText.WrappedText object at 0x1186ae870>
+380.0000,6.000,fix
+386.0000,8.000,2,88,1,nonjoke,The wind was so strong it blew out three,fuses,streetlights,The wind was so strong it blew out three streetlights.,<VisionEgg.WrappedText.WrappedText object at 0x1186ae820>
+394.0000,4.000,fix
+398.0000,8.000,2,25,1,joke,The only thing money can't buy is,poverty,generosity,The only thing money can't buy is poverty.,<VisionEgg.WrappedText.WrappedText object at 0x1186ae8c0>
+406.0000,4.000,fix
+410.0000,8.000,2,12,1,nonjoke,In some marriages the bride is given away by the ,press,family ,In some marriages the bride is given away by the family .,<VisionEgg.WrappedText.WrappedText object at 0x1186ae960>
+418.0000,4.000,fix
+422.0000,8.000,2,125,1,joke,I know one couple who got divorced and had to leave the house to the,attorney,daughter,I know one couple who got divorced and had to leave the house to the attorney.,<VisionEgg.WrappedText.WrappedText object at 0x1186ae910>
+430.0000,4.000,fix
+434.0000,8.000,2,130,1,nonjoke,"This house comes with lots of extras, mostly",termites,upgrades,"This house comes with lots of extras, mostly upgrades.",<VisionEgg.WrappedText.WrappedText object at 0x1186aea00>
+442.0000,8.000,2,101,1,joke,"I got a car for my wife, and I thought it was a good",trade,choice,"I got a car for my wife, and I thought it was a good trade.",<VisionEgg.WrappedText.WrappedText object at 0x1186ae9b0>
+450.0000,8.000,2,141,1,joke,The only crop that is grown in America and harvested abroad is the American,tourist,tobacco,The only crop that is grown in America and harvested abroad is the American tourist.,<VisionEgg.WrappedText.WrappedText object at 0x1186aea50>
+458.0000,2.000,fix
+460.0000,8.000,2,115,1,joke,"In the game of golf, nothing counts as much as your",opponent,drives,"In the game of golf, nothing counts as much as your opponent.",<VisionEgg.WrappedText.WrappedText object at 0x1186aeaf0>
+468.0000,8.000,2,14,1,nonjoke,He got a medal for bravery on the beach when he rescued a girl from a ,lifeguard,shipwreck,He got a medal for bravery on the beach when he rescued a girl from a shipwreck.,<VisionEgg.WrappedText.WrappedText object at 0x1186aeaa0>
+476.0000,2.000,fix
+478.0000,8.000,2,153,1,joke,The husband who catches his wife in the act is probably on the,trapeze,snoop,The husband who catches his wife in the act is probably on the trapeze.,<VisionEgg.WrappedText.WrappedText object at 0x1186aeb90>
+486.0000,22.000,fix
+508.0000,8.000,2,89,1,joke,"Some babies are born to rule, while others are",male,weak,"Some babies are born to rule, while others are male.",<VisionEgg.WrappedText.WrappedText object at 0x1186aeb40>
+516.0000,8.000,2,69,1,joke,"When an irresistible force meets an immovable object, you get two very angry",women,entities,"When an irresistible force meets an immovable object, you get two very angry women.",<VisionEgg.WrappedText.WrappedText object at 0x1186aebe0>
+524.0000,2.000,fix
+526.0000,8.000,2,41,1,joke,His doctor recommended he stay flat on his back ever since he was hit by a ,steamroller,motorist,His doctor recommended he stay flat on his back ever since he was hit by a steamroller.,<VisionEgg.WrappedText.WrappedText object at 0x1186aec30>
+534.0000,8.000,2,111,1,joke,"Some husbands are good providers, but only if you count",children,salary,"Some husbands are good providers, but only if you count children.",<VisionEgg.WrappedText.WrappedText object at 0x1186aec80>
+542.0000,2.000,fix
+544.0000,8.000,2,131,1,joke,"Statistics indicate that Americans spend eighty million a year on games of chance, mostly",weddings, blackjack,"Statistics indicate that Americans spend eighty million a year on games of chance, mostly weddings.",<VisionEgg.WrappedText.WrappedText object at 0x1186aecd0>
+552.0000,10.000,fix
+562.0000,8.000,2,43,1,joke,"I asked him if he started out as an editor, and he said that years ago he used to be a ",boy,journalist,"I asked him if he started out as an editor, and he said that years ago he used to be a boy.",<VisionEgg.WrappedText.WrappedText object at 0x1186aed20>
+FED_20161227c_3T2,2,106,1,nonjoke,"Every time I wear my spring coat in the rain, it damages the",springs,fabric,"Every time I wear my spring coat in the rain, it damages the fabric.",1,0.4666879177093506,6.0104241371154785
+FED_20161227c_3T2,2,139,1,joke,They redecorated the bar with new,drunks,wood,They redecorated the bar with new drunks.,2,0.8335309028625488,14.011356115341187
+FED_20161227c_3T2,2,45,1,joke,"She is so modest, she pulls down the shade to change her", mind,jacket,"She is so modest, she pulls down the shade to change her mind.",2,0.816817045211792,24.012627124786377
+FED_20161227c_3T2,2,128,1,nonjoke,"Figures don't lie, except on the",beaches,page,"Figures don't lie, except on the page.",3,0.46674299240112305,32.013692140579224
+FED_20161227c_3T2,2,107,1,joke,The difference between a good speaker and a bad one is often a nice,nap,diction,The difference between a good speaker and a bad one is often a nice nap.,2,0.43338704109191895,40.01471304893494
+FED_20161227c_3T2,2,84,1,nonjoke,"The convict told his cellmate how he'd blown all the money he stole on wine, women, and ",lawyers,crack,"The convict told his cellmate how he'd blown all the money he stole on wine, women, and crack.",2,0.6501069068908691,48.01572608947754
+FED_20161227c_3T2,2,100,1,nonjoke,"I hope this train stops at Grand Central because if it doesn't, there will be a ",crash,delay,"I hope this train stops at Grand Central because if it doesn't, there will be a delay.",2,1.3501489162445068,58.000373125076294
+FED_20161227c_3T2,2,36,1,nonjoke,A problem drinker is one who never,buys,quits,A problem drinker is one who never quits.,1,0.4500420093536377,68.00164914131165
+FED_20161227c_3T2,2,119,1,joke,"He told me he's not broke, just badly",bent,off,"He told me he's not broke, just badly bent.",2,0.5000479221343994,78.00294208526611
+FED_20161227c_3T2,2,60,1,nonjoke,Another thing a small boy is constantly outgrowing is his,allowance,underwear,Another thing a small boy is constantly outgrowing is his underwear.,1,0.8834950923919678,88.00420904159546
+FED_20161227c_3T2,2,40,1,nonjoke,No patient should leave the hospital until he's strong enough to face the,cashier,outside,No patient should leave the hospital until he's strong enough to face the outside.,2,0.9501070976257324,96.00528311729431
+FED_20161227c_3T2,2,122,1,nonjoke,"If you're filthy rich, sending your kids to college is a wonderful", cleaner,luxury,"If you're filthy rich, sending your kids to college is a wonderful luxury.",1,0.35004305839538574,106.00655698776245
+FED_20161227c_3T2,2,49,1,joke,One person who sure makes a long story short is my,editor,aunt,One person who sure makes a long story short is my editor.,1,0.2500579357147217,114.00759816169739
+FED_20161227c_3T2,2,64,1,nonjoke,The best way to stop an elephant from charging is to cut off its,credit,toes,The best way to stop an elephant from charging is to cut off its toes.,1,0.4500441551208496,128.0093810558319
+FED_20161227c_3T2,2,152,1,nonjoke,"Many things run in families, especially",noses,strength,"Many things run in families, especially strength.",1,0.5500748157501221,144.01145720481873
+FED_20161227c_3T2,2,47,1,joke,"Charged with statutory rape, he told the judge he didn't know she was a ",statue,teenager,"Charged with statutory rape, he told the judge he didn't know she was a statue.",1,0.4000399112701416,152.01250410079956
+FED_20161227c_3T2,2,5,1,joke,She read so much about the bad effects of cigarettes she decided to give up the,reading,habit,She read so much about the bad effects of cigarettes she decided to give up the reading.,2,0.35009002685546875,160.01353812217712
+FED_20161227c_3T2,2,56,1,nonjoke,"When you own an ice cream business, your favorite flavor is",aspirin,everything,"When you own an ice cream business, your favorite flavor is everything.",,,174.01532816886902
+FED_20161227c_3T2,2,81,1,joke,Another thing that has developed by leaps and bounds is modern,dance,science,Another thing that has developed by leaps and bounds is modern dance.,3,0.40001416206359863,182.01639103889465
+FED_20161227c_3T2,2,15,1,joke,"When John bought a bulldog, it was no time at all before he had that dog eating out of his",leg,fingers,"When John bought a bulldog, it was no time at all before he had that dog eating out of his leg.",1,0.38335490226745605,190.00074815750122
+FED_20161227c_3T2,2,96,1,nonjoke,"When the kid came into the store and asked for empty boxes, the owner gave him the",register,crate,"When the kid came into the store and asked for empty boxes, the owner gave him the crate.",1,0.8668098449707031,200.00201416015625
+FED_20161227c_3T2,2,109,1,joke,Many a freshman helps the college of his choice by becoming a ,dropout,member,Many a freshman helps the college of his choice by becoming a dropout.,1,1.3001549243927002,208.00306010246277
+FED_20161227c_3T2,2,4,1,nonjoke,I knew a streetwalker who was so exclusive she had an unlisted telephone,booth,line,I knew a streetwalker who was so exclusive she had an unlisted telephone line.,1,0.3500490188598633,220.00459909439087
+FED_20161227c_3T2,2,31,1,joke,"He told her he wasn't himself, and she said she'd noticed the",improvement,problem,"He told her he wasn't himself, and she said she'd noticed the improvement.",3,0.31669092178344727,228.00565218925476
+FED_20161227c_3T2,2,57,1,joke,"Congress taxes our income, our property, and our",patience,purchases,"Congress taxes our income, our property, and our patience.",2,0.483414888381958,240.0071861743927
+FED_20161227c_3T2,2,70,1,nonjoke,The best gift for the man who has everything is,penicillin,neckties,The best gift for the man who has everything is neckties.,1,0.2833528518676758,250.0084981918335
+FED_20161227c_3T2,2,58,1,nonjoke,The woman who has her husband eating out of her hand must save a lot of,dishwashing,heartbreak,The woman who has her husband eating out of her hand must save a lot of heartbreak.,1,0.7332959175109863,264.0103271007538
+FED_20161227c_3T2,2,22,1,nonjoke,Our son brought home a note from school saying they need a written excuse for his,presence,tardiness,Our son brought home a note from school saying they need a written excuse for his tardiness.,1,0.916862964630127,274.0114860534668
+FED_20161227c_3T2,2,120,1,nonjoke,Two things are essential for success: wealth and,money,fame,Two things are essential for success: wealth and fame.,1,0.2834339141845703,282.0125501155853
+FED_20161227c_3T2,2,50,1,nonjoke,The only time my father ever raised a hand to his children was in ,self- defense,discipline,The only time my father ever raised a hand to his children was in discipline.,2,0.7166218757629395,312.01648116111755
+FED_20161227c_3T2,2,108,1,nonjoke,Everyone had so much fun diving from the tree into the swimming pool we decided to put in a little,water,platform,Everyone had so much fun diving from the tree into the swimming pool we decided to put in a little platform.,1,0.3500521183013916,320.00083208084106
+FED_20161227c_3T2,2,129,1,joke,The perfect companion to a vegetarian dinner is a ,steak,salad,The perfect companion to a vegetarian dinner is a steak.,3,0.6500680446624756,328.00187706947327
+FED_20161227c_3T2,2,38,1,nonjoke,This fall two things are turning yellow: trees and,investors,bushes,This fall two things are turning yellow: trees and bushes.,1,1.1668119430541992,338.003142118454
+FED_20161227c_3T2,2,90,1,nonjoke,A vacation is the shortest distance between two,paychecks,locations,A vacation is the shortest distance between two locations.,1,0.400054931640625,356.00545716285706
+FED_20161227c_3T2,2,77,1,joke,He is at the age when all the numbers in his little black book belong to,doctors,friends,He is at the age when all the numbers in his little black book belong to doctors.,1,0.6833429336547852,370.0072531700134
+FED_20161227c_3T2,2,94,1,nonjoke,"To get something done, a committee should consist of no more than three people, two of whom are",dead,workers,"To get something done, a committee should consist of no more than three people, two of whom are workers.",1,0.31682682037353516,378.00816917419434
+FED_20161227c_3T2,2,88,1,nonjoke,The wind was so strong it blew out three,fuses,streetlights,The wind was so strong it blew out three streetlights.,1,0.366649866104126,392.0100951194763
+FED_20161227c_3T2,2,25,1,joke,The only thing money can't buy is,poverty,generosity,The only thing money can't buy is poverty.,1,0.5001060962677002,404.0115900039673
+FED_20161227c_3T2,2,12,1,nonjoke,In some marriages the bride is given away by the ,press,family ,In some marriages the bride is given away by the family .,1,0.3000919818878174,416.01307010650635
+FED_20161227c_3T2,2,125,1,joke,I know one couple who got divorced and had to leave the house to the,attorney,daughter,I know one couple who got divorced and had to leave the house to the attorney.,1,1.4001338481903076,428.01461815834045
+FED_20161227c_3T2,2,130,1,nonjoke,"This house comes with lots of extras, mostly",termites,upgrades,"This house comes with lots of extras, mostly upgrades.",1,0.3333609104156494,440.01620507240295
+FED_20161227c_3T2,2,101,1,joke,"I got a car for my wife, and I thought it was a good",trade,choice,"I got a car for my wife, and I thought it was a good trade.",3,0.45006418228149414,448.0005609989166
+FED_20161227c_3T2,2,141,1,joke,The only crop that is grown in America and harvested abroad is the American,tourist,tobacco,The only crop that is grown in America and harvested abroad is the American tourist.,3,0.4500589370727539,456.00155305862427
+FED_20161227c_3T2,2,115,1,joke,"In the game of golf, nothing counts as much as your",opponent,drives,"In the game of golf, nothing counts as much as your opponent.",1,0.36673808097839355,466.0028510093689
+FED_20161227c_3T2,2,14,1,nonjoke,He got a medal for bravery on the beach when he rescued a girl from a ,lifeguard,shipwreck,He got a medal for bravery on the beach when he rescued a girl from a shipwreck.,1,0.3333590030670166,474.003879070282
+FED_20161227c_3T2,2,153,1,joke,The husband who catches his wife in the act is probably on the,trapeze,snoop,The husband who catches his wife in the act is probably on the trapeze.,2,0.9501678943634033,484.00509309768677
+FED_20161227c_3T2,2,89,1,joke,"Some babies are born to rule, while others are",male,weak,"Some babies are born to rule, while others are male.",3,0.43340301513671875,514.008956193924
+FED_20161227c_3T2,2,69,1,joke,"When an irresistible force meets an immovable object, you get two very angry",women,entities,"When an irresistible force meets an immovable object, you get two very angry women.",2,0.8834271430969238,522.0099580287933
+FED_20161227c_3T2,2,41,1,joke,His doctor recommended he stay flat on his back ever since he was hit by a ,steamroller,motorist,His doctor recommended he stay flat on his back ever since he was hit by a steamroller.,2,0.35001587867736816,532.011313199997
+FED_20161227c_3T2,2,111,1,joke,"Some husbands are good providers, but only if you count",children,salary,"Some husbands are good providers, but only if you count children.",2,0.33345603942871094,540.0122220516205
+FED_20161227c_3T2,2,131,1,joke,"Statistics indicate that Americans spend eighty million a year on games of chance, mostly",weddings, blackjack,"Statistics indicate that Americans spend eighty million a year on games of chance, mostly weddings.",3,1.0001599788665771,550.0135650634766
+FED_20161227c_3T2,2,43,1,joke,"I asked him if he started out as an editor, and he said that years ago he used to be a ",boy,journalist,"I asked him if he started out as an editor, and he said that years ago he used to be a boy.",2,0.7167589664459229,568.0159151554108
